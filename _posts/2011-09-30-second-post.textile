@@ -1,0 +1,27 @@
+---
+layout: post
+title: Second post
+---
+
+h1. {{ page.title }}
+
+Test new page created using Cloud9 IDE.
+
+So Cloud9 has this command line at the bottom of the screen which allows you to 
+run Git commands.
+
+It doesn't have cut and paste in the editor...  Well paste works when pasting 
+from another window but there is no way of originating a cut.
+
+And I notice Cloud9 has this neat feature where there is a line which shows you 
+you are reaching a certain column number.  I'm guessing 80 characters.
+
+This page will probably be deleted.
+
+This is for a future page.
+
+Commit I have been involved with:
+
+* "https://github.com/masterkain/ImageMagick-sl/commit/1d0a5b8da4e54f68d0d4efaa7c460f59b19133cc":https://github.com/masterkain/ImageMagick-sl/commit/1d0a5b8da4e54f68d0d4efaa7c460f59b19133cc
+* "https://github.com/repoforge/rpms/commit/ccfbc98096701b94208a14f8084c028c13f44b31":https://github.com/repoforge/rpms/commit/ccfbc98096701b94208a14f8084c028c13f44b31
+* "https://github.com/repoforge/rpms/commit/0402c972d8b24e6ad3babb11a885b3f329b9aa20":https://github.com/repoforge/rpms/commit/0402c972d8b24e6ad3babb11a885b3f329b9aa20
