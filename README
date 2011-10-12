@@ -1,0 +1,6 @@
+Generate and run locally:
+jekyll --server
+
+Browse:
+http://localhost:4000
+
