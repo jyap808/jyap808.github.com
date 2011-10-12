@@ -1,0 +1,9 @@
+---
+layout: page
+title: Test Page
+#url: /page/test_page.html
+---
+
+h1. {{ page.title }}
+
+This is a test page
