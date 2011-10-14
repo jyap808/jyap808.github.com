@@ -1,0 +1,18 @@
+---
+layout: legacy
+title: Convert Stereo to Mono with Audacity
+permalink: Convert_Stereo_to_Mono_with_Audacity/index.html
+#permalink: Convert_Stereo_to_Mono_with_Audacity
+# 34,433 hits 20111013
+---
+
+h1. {{ page.title }}
+
+Converting a stereo track to mono by:
+# Splitting the Stereo track.
+## Making both tracks mono.
+## Use the level control for each track, found on the left of the track to set to: "Gain: -6 dB". Then when you quick mix, it is guaranteed to not clip.
+## Applying Quick Mix.
+
+From "here":http://sourceforge.net/mailarchive/forum.php?thread_id=7959134&forum_id=827
+

@@ -1,0 +1,11 @@
+---
+layout: page
+title: Legacy pages
+---
+
+h1. {{ page.title }}
+
+Legacy pages from previous versions of this site.
+
+* "Convert Stereo to Mono with Audacity":/wiki/Convert_Stereo_to_Mono_with_Audacity
+
