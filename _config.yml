@@ -1,4 +1,4 @@
 pygments: true
 baseurl: /
-#permalink: pretty
+permalink: ./:year/:month/:day/:title.html
 
