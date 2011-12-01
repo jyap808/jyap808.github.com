@@ -51,6 +51,14 @@ table {
   font: 100%;
 }
 
+blockquote {
+  font-style: italic;
+  /* margin: 1em 3em; */
+  margin: 2em 2em 2em 1em;
+  border-left: 2px solid #999;
+  padding-left: 0.5em;
+}
+
 /*****************************************************************************/
 /*
 /* Home
