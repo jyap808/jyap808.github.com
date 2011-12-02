@@ -80,6 +80,16 @@ ul.posts {
     font-size: 80%;
   }
 
+hr.front {
+  border: 0;
+  height: 0;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+  width: 50%;
+  position: relative;
+  margin: 15px auto;
+}
+
 /*****************************************************************************/
 /*
 /* Site
