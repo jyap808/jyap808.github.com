@@ -1,6 +1,39 @@
-Generate and run locally with automatic regeneration:
+== Generate and run locally with automatic regeneration ==
+
 jekyll --server --auto
 
-Browse:
+== Browse ==
+
 http://localhost:4000
+
+== New post ==
+
+cat >> _posts/$(date +"%Y-%m-%d")-POST_STUB.textile << EOF
+---
+layout: post
+title: TITLE_OPTIONAL
+---
+
+h1. "{{ page.title }}":http://www.example.com
+
+bq. BLOCKQUOTE
+
+COMMENTARY
+EOF
+
+== Generic commentary ==
+
+if [ -f  "_posts/$(date +"%Y-%m-%d")-Commentary2.textile" ]; then
+    echo "File exists"
+else
+    cat >> _posts/$(date +"%Y-%m-%d")-Commentary2.textile << EOF
+---
+layout: post
+---
+
+h1. "LINK_TITLE":http://LINK.com
+
+COMMENTARY
+EOF
+fi
 
