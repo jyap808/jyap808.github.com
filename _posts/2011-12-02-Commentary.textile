@@ -2,6 +2,20 @@
 layout: post
 ---
 
+h1(#kindle_fire). "The Kindle Fire defines the bottom end in tablet pricing":http://www.isuppli.com/Display-Materials-and-Systems/News/Pages/Red-Hot-Kindle-Fire-Blazes-its-Way-to-Second-Place-in-Media-Tablet-Market.aspx
+
+bq. Most other Android tablet makers must earn a profit based on hardware sales alone. In contrast, Amazon plans to use the Kindle Fire to drive sales of physical goods that comprise the majority of the company’s business. As long as this strategy is successful, the company can afford to take a loss on the hardware—while its Android competitors cannot.
+
+With Amazon selling its Kindle Fire tablet at a loss, the business model for them is to make money on the content and related Amazon.com store products.  The problem for other Android competitors is that Amazon has set the pricing bar as low as it can go.  $199 is the bottom end for tablet pricing whether you have a separate business model or not.
+
+When the original iPad was first announced in late January 2010 the announcement that the base model price of $499 came as a shock to predictions which expected it to be around twice that price.  Every article I read in the lead up days and hours to the announcement had the pricing way off.  The aggressive pricing effectively killed off early competitors.
+
+As time goes by, manufacturing costs come down and by maintaining the same pricing, Apple realizes a higher profit margin per unit.  This gives them the option of dropping the price of the current iPad 2 when the next model of iPad is introduced, effectively lowering the gap between the bottom end $199 tablet price and their $499 entry level model.  This strategy was most recently employed when introducing the iPhone 4S and works well in not devaluing the price of their latest model.  That's what I think will happen.  Apple was so far ahead of the competition that they've haven't had to consider options like this so far.
+
+I also believe that the iPad 3 will contain a retina display and new internals required to support the higher resolution.  Apple will attempt to bring out a model which is so technologically advanced that it will make it difficult for other manufactures to compete in the forseeable future.
+
+</br>
+
 h1(#gowalla). "Facebook acquires Gowalla":http://money.cnn.com/2011/12/02/technology/gowalla_facebook/
 
 bq. Facebook views takeovers as a good way to build up its talent bench.
