@@ -11,7 +11,7 @@ h2. Default compiler
 
 bq. The default compiler for iOS development in Xcode 4.2 is LLVM 3.0. Compared with the GCC compiler that was the default in Xcode 4.0 and the LLVM-GCC compiler in Xcode 4.1, LLVM provides better code generation and optimization than GCC, along with newer language support than LLVM-GCC, including support for ARC in Objective-C and for the new C++ standard, C++0x.
 
-h2. Storyboarding
+h2(#storyboarding). Storyboarding
 
 ... Looks confusing and is optional.
 
