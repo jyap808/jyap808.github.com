@@ -1,0 +1,12 @@
+---
+layout: post
+---
+
+h1. BlackBerry Playbooks in 2012
+
+RIM put out a "press release":http://press.rim.com/release.jsp?id=5267 today that they would record a "pre-tax provision" of approximately $485 million.  From what I understand that's just a fancy way of saying that they're taking a "writedown":http://en.wikipedia.org/wiki/Write-off#Writedown.  This is all due to an unsold "high level of BlackBerry inventory".
+
+bq. Analyst Jeffrey Fidacaro of Susquehanna Financial Group forecast RIM will sell 8 million PlayBooks in the next fiscal year. He said investors appear to be assuming sales of 10 million units, a figure he said is optimistic. 
+
+"Just over one year ago":http://www.bloomberg.com/news/2010-11-30/rim-climbs-as-analysts-forecast-growing-demand-for-playbook.html, investors were assuming sales of 10 million and analysts were forecasting sales of 8 million BlackBerry Playbooks for 2012.
+
