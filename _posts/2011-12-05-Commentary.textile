@@ -4,7 +4,7 @@ layout: post
 
 h1(#jpmorgan). "J.P. Morgan and the impact of lower priced competitors to the iPad":https://mm.jpmorgan.com/stp/t/c.do?i=52E02-D2&u=a_p*d_737409.pdf*h_tk1mtdq0
 
-bq. Apple appeared confident in its position of strength in the tablet market continuing. We believe that Apple is not too concerned about the low-priced entrants
+bq. Apple appeared confident in its position of strength in the tablet market continuing. We believe that Apple is not too concerned about the low-priced entrants.
 
 iPad tablet sales aren't being effected and growth and sales projections continue.  It is business as usual for Apple.
 
@@ -12,7 +12,7 @@ iPad tablet sales aren't being effected and growth and sales projections continu
 
 h1(#evercore). "Evercore and the impact of Kindle Fire on other Android tablets":http://tech.fortune.cnn.com/2011/12/05/evercore-amazon-will-own-50-of-android-tablet-market-in-12/
 
-bq. Amazon's success may just vaporize other "for profit" Android tablet OEM roadmaps
+bq. Amazon's success may just vaporize other "for profit" Android tablet OEM roadmaps.
 
 The biggest competitor to Android tablets is Android itself through Amazon's Kindle Fire.  As I mentioned the other day "the Kindle Fire defines the bottom end in tablet pricing":/2011/12/02/Commentary.html#kindle_fire.
 
