@@ -14,8 +14,8 @@ bq. The closed model has and will always have huge advantages in graphics speed.
 
 This is a comment from "Max Huijgen":https://plus.google.com/112352920206354603958 from the post.
 
-I like the analogy.  iOS with is limited models and standardized hardware is like the Xbox/PS3 and Android is like the PC.
+I like the analogy.  iOS with its limited models and standardized hardware is like the Xbox/PS3 and Android is like the PC.
 
-As a result of tightly coupled software and hardware assumptions and optimizations, iOS devices don't require as much in terms hardware.  Meaning less RAM, a slower CPU, a slower GPU, etc...
+As a result of tightly coupled software and hardware assumptions and optimizations, iOS devices don't require as much in terms hardware.  Meaning less RAM is required to run the system, a slower CPU is adequate, a slower GPU renders everything perfectly fine, etc...
 
-Another reason why Apple isn't in the business of touting specs.
+Another reason why Apple isn't in the business of touting specs because that isn't a game they are playing.
