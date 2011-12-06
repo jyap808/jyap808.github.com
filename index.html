@@ -18,9 +18,9 @@ title: Julian Yap
     {% endfor %}
   </ul>
 
-  <h1>Posts</h1>
+  <h1>Older Posts</h1>
   <ul class="posts">
-    {% for post in site.posts %}
+    {% for post in site.posts offset:5 %}
       <li><span class="post_date">{{ post.date | date_to_string }}</span> &raquo; <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
