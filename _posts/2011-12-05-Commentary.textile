@@ -2,6 +2,18 @@
 layout: post
 ---
 
+h1(#android_ui). "Andrew Munn: The Reason Android is Laggy":https://plus.google.com/100838276097451809262/posts/VDkV9XaJRGS
+
+Andrew Munn a former Android team intern in response to "Dianne Hackborn's post":https://plus.google.com/105051985738280261832/posts/2FXDCz8x93s I linked to yesterday.
+
+bq. Android follows the traditional PC model of rendering occurring on the main thread with normal priority...
+
+bq. Work on Android started before the release of the iPhone, and at the time Android was designed to be a competitor to the Blackberry. The original Android prototype wasn’t a touch screen device. Android’s rendering trade-offs make sense for a keyboard and trackball device. When the iPhone came out, the Android team rushed to release a competitor product, but unfortunately it was too late to rewrite the UI framework.
+
+I've got to thank Andrew for taking the time to explain it all in plain English.  Probably the best post I've read on Android and UI rendering.
+
+</br>
+
 h1(#jpmorgan). "J.P. Morgan and the impact of lower priced competitors to the iPad":https://mm.jpmorgan.com/stp/t/c.do?i=52E02-D2&u=a_p*d_737409.pdf*h_tk1mtdq0
 
 bq. Apple appeared confident in its position of strength in the tablet market continuing. We believe that Apple is not too concerned about the low-priced entrants.
@@ -17,5 +29,3 @@ bq. Amazon's success may just vaporize other "for profit" Android tablet OEM roa
 The biggest competitor to Android tablets is Android itself through Amazon's Kindle Fire.  As I mentioned the other day "the Kindle Fire defines the bottom end in tablet pricing":/2011/12/02/Commentary.html#kindle_fire.
 
 The base price is so low that others such as Dell which "recently discontinued the Dell Streak 7":http://www.streaksmart.com/2011/12/dell-streak-7-no-longer-being-sold-from-dells-website.html can't compete as they rely on profits through hardware sales.
-
-
