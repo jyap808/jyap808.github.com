@@ -23,10 +23,10 @@ EOF
 
 == Generic commentary ==
 
-if [ -f  "_posts/$(date +"%Y-%m-%d")-Commentary2.textile" ]; then
+if [ -f  "_posts/$(date +"%Y-%m-%d")-Commentary.textile" ]; then
     echo "File exists"
 else
-    cat >> _posts/$(date +"%Y-%m-%d")-Commentary2.textile << EOF
+    cat >> _posts/$(date +"%Y-%m-%d")-Commentary.textile << EOF
 ---
 layout: post
 ---
