@@ -15,6 +15,6 @@ I mean it meant that I needed to be on the command line to actually post and I n
 
 I mean WordPress isn't clean/elite but at least you can edit through the web as well as optionally via a separate application.  So if the barriers to create are too high I may as well be using WordPress or Tumblr.
 
-So I'm testing out "Cloud9 IDE":http://cloud9ide.com since it ties in nicely with GitHub repositories and covers the base of being able edit througth the web.
+So I'm testing out "Cloud9 IDE":http://cloud9ide.com since it ties in nicely with GitHub repositories and covers the base of being able edit through the web.
 
 .. And eventually if the whole workflow doesn't totally suck and enough content has been built up, I'll eventually shift my personal URL to point to this site.

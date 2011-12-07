@@ -12,7 +12,7 @@ When the original iPad was first announced in late January 2010 the announcement
 
 As time goes by, manufacturing costs come down and by maintaining the same pricing, Apple realizes a higher profit margin per unit.  This gives them the option of dropping the price of the current iPad 2 when the next model of iPad is introduced, effectively lowering the gap between the bottom end $199 tablet price and their $499 entry level model.  This strategy was most recently employed when introducing the iPhone 4S and works well in not devaluing the price of their latest model.  That's what I think will happen.  Apple was so far ahead of the competition with tablets that they've haven't had to consider options like this so far.
 
-I also believe that the iPad 3 will contain a retina display and new internals required to support the higher resolution.  Apple will attempt to bring out a model which is so technologically advanced that it will make it difficult for other manufactures to compete in the forseeable future.
+I also believe that the iPad 3 will contain a retina display and new internals required to support the higher resolution.  Apple will attempt to bring out a model which is so technologically advanced that it will make it difficult for other manufactures to compete in the foreseeable future.
 
 </br>
 
@@ -20,7 +20,7 @@ h1(#gowalla). "Facebook acquires Gowalla":http://money.cnn.com/2011/12/02/techno
 
 bq. Facebook views takeovers as a good way to build up its talent bench.
 
-Maybe a year or so ago I remember looking up this "really annoying":http://getsatisfaction.com/gowalla/topics/gowalla_is_a_pain_in_my_arse bug that didn't allow you to block Gowalla from your Facebook feed.  It was the _only_ 3rd party app that couldn't be blocked.  I assumed at the time that Facebook was actually using Gowalla as a backend to Facebook Places.  In which case, acquiring Gowalla would be a natural fit (assuming I'm somewhat correct).
+Maybe a year or so ago I remember looking up this "really annoying":http://getsatisfaction.com/gowalla/topics/gowalla_is_a_pain_in_my_arse bug that didn't allow you to block Gowalla from your Facebook feed.  It was the _only_ 3rd party app that couldn't be blocked.  I assumed at the time that Facebook was actually using Gowalla as a back end to Facebook Places.  In which case, acquiring Gowalla would be a natural fit (assuming I'm somewhat correct).
 
 </br>
 
