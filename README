@@ -8,18 +8,7 @@ http://localhost:4000
 
 == New post ==
 
-cat >> _posts/$(date +"%Y-%m-%d")-POST_STUB.textile << EOF
----
-layout: post
-title: TITLE_OPTIONAL
----
-
-h1. "{{ page.title }}":http://www.example.com
-
-bq. BLOCKQUOTE
-
-COMMENTARY
-EOF
+rake new_post["Post Title"]
 
 == Generic commentary ==
 
