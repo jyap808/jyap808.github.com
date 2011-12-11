@@ -9,6 +9,7 @@ title: Home
     {% for post in site.posts limit: 5 %}
       <div class="front">
         <div align="right"><a href="{{ post.url }}" title="Permanent link to: '{{ post.title }}'">{{ post.date | date:"%A, %e %B %Y" }}</a></div>
+        </br>
         {{ post.content }}
         </br>
         </br>
