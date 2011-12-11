@@ -130,6 +130,10 @@ hr.front {
   color: black;
 }
 
+.site .title .twitter-follow-button {
+  float: right;
+}
+
 .site .meta {
   color: #aaa;
 }
