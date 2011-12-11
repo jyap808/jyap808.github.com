@@ -107,7 +107,7 @@ hr.front {
 .title {
   color: #a00;
   font-weight: bold;
-  margin-bottom: 2em;
+  margin-bottom: 3em;
 }
 
 .site .title a {
@@ -132,6 +132,7 @@ hr.front {
 
 .site .title .twitter-follow-button {
   float: right;
+  margin-right: -5em;
 }
 
 .site .meta {
@@ -212,9 +213,9 @@ hr.front {
   }
 
 #related {
-  margin-top: 2em;
+  margin-top: 3em;
 }
 
-  #related h2 {
-    margin-bottom: 1em;
-  }
+#related h2 {
+  margin-bottom: 1em;
+}
