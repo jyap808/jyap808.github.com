@@ -1,0 +1,24 @@
+---
+layout: post
+title: It looks like HP's TouchPad is totally screwed
+date: 2011-08-16 22:56
+---
+
+h1. "{{ page.title }}":http://allthingsd.com/20110816/ouchpad-best-buy-sitting-on-a-pile-of-unsold-hp-tablets/
+
+bq. Best Buy has taken delivery of 270,000 TouchPads and has so far managed to sell only 25,000, or less than 10 percent of the units in its inventory.
+
+Oh shit. Steve Jobs was right when he said that 2011 was going to be the year of the iPad 2.  It was a bold statement and one which would have surely motivated competitors.
+
+When the original iPad came out, I remember manufacturers scrambling back to the drawing board since they had nothing to compete with the iPad too.  Apparently some of them had tablet devices but didn't release them based on what the original iPad came out with.
+
+It's amazing that Apple came out with something that from a hardware perspective was at least 1 year ahead of the competition.  It allowed them the time to further build up their ecosystem since nothing else was out there.
+
+Now that other manufacturers have had time to play hardware catch up, they have the product but find themselves with poor sales.  Why?  Because no one wants a tablet just to surf the web and just do email.
+
+HP hasn't done its job in appealing to developers.  Personally, I don't even know what language would be used to compile an app on HP's TouchPad.  I don't even know what their app store looks like or if it sucks.
+
+Something's got to give and the other companies are pumping in dollars for new products and nothing is coming out the other side.  Consumers aren't buying.  It has got to be a frustrating situation.  And if consumers aren't buying then retailers don't want to carry the loses or the shelf space.
+
+*UPDATE @ Aug 18, 10:12am:* Looks like I was right.  Something did give and "HP announced today":http://www.hp.com/hpinfo/newsroom/press/2011/110818b.html that will discontinue operations for webOS devices, specifically the TouchPad and webOS phones.' 
+
