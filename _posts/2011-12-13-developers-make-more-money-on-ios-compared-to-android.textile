@@ -1,0 +1,18 @@
+---
+layout: post
+title: Developers make more money on iOS compared to Android
+date: 2011-12-13 09:48
+---
+
+h1. "{{ page.title }}":http://blog.flurry.com/bid/79061/App-Developers-Bet-on-iOS-over-Android-this-Holiday-Season
+
+bq. Anecdotally, developers consistently tell us that they make more money on iOS, about three to four times as much. To be sure, we pulled a sample of in-app purchase data from a set of top apps with versions on both iOS and Android, comprising of several million daily active users (DAUs). Running the numbers, we find that, on average, for every $1.00 generated on iOS, the same app will generate $0.24 on Android.
+
+If your business model was free apps with ad support then Android would be a good platform to develop for. But even then reports also say that "two thirds of Google's mobile revenue comes from iOS.":http://9to5mac.com/2011/09/21/google-23rds-of-our-mobile-search-comes-from-apples-ios/  How could a smaller install base of iOS devices lead to greater revenue?  My conclusion is engagement.  iOS users enjoy and use their devices more which is evidenced through a "higher mobile web browsing share.":http://www.redmondpie.com/mobile-web-browsing-share-of-ios-goes-past-60/
+
+iOS is better in terms of monetizing for paid apps, in-app purchases and advertising.
+
+bq. However, the largest single factor that appears to impact developer support for the platform is the consumer’s ability to pay.  This comes down to Google Checkout penetration.
+
+This is a good point.  I would also argue that Google's market dynamics (one time developer sign up fee with no limit to number of apps submitted and no app submission review process) floods the market with poor apps that drown out the visibility of any quality paid apps.
+
