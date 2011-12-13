@@ -1,0 +1,19 @@
+---
+layout: page
+title: Colophon
+---
+
+h1. {{ page.title }}
+
+I believe we live in interesting times.
+
+I am an Australian expatriate, 10+ year IT professional specializing in VoIP and iOS development living in Honolulu, Hawaii.
+
+I genuinely enjoy writing and by nature I think a lot.  Writing helps to clear my head.
+
+What I aim to have on this site is my tech analysis, thoughts on future trends and other forms of pattern recognition.
+
+Please subscribe to my "Twitter":http://twitter.com/jyap and/or "RSS feed.":http://julianyap.com/atom.xml
+
+Thanks.
+
