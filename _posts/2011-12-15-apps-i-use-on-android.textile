@@ -6,7 +6,7 @@ date: 2011-12-15 01:45
 
 h1. {{ page.title }}
 
-It has been a bit over a year since I have had my "HTC Droid Incredible":http://en.wikipedia.org/wiki/Droid_Incredible.  I could go into it more but I can say that it has been a throughly unenjoyable experience.  I have found no joy in using an Android phone.  Strangely enough after reviewing the apps I have installed on the web, I only came to the figure of 52 apps total (it also counts some pre-installed apps, probably since updates were issued).  Thankfully, my workplace will be upgrading us to iPhone's in the next few weeks.  I can't wait.  I thought I'd take this opportunity to run through the apps I use on Android.
+It has been a bit over a year since I have had my "HTC Droid Incredible":http://en.wikipedia.org/wiki/Droid_Incredible.  I could go into it more but I can say that it has been a thoroughly unenjoyable experience.  I have found no joy in using an Android phone.  Strangely enough after reviewing the apps I have installed on the web, I only came to the figure of 52 apps total (it also counts some pre-installed apps, probably since updates were issued).  Thankfully, my workplace will be upgrading us to iPhone's in the next few weeks.  I can't wait.  I thought I'd take this opportunity to run through the apps I use on Android.
 
 *K-9 Mail* - I use this for Yahoo! Mail since I can't get Yahoo! Mail working on the stock HTC email application.
 
