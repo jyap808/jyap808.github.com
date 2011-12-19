@@ -1,0 +1,12 @@
+---
+layout: post
+title: Everyone Hates Google
+date: 2011-12-18 15:23
+---
+
+h1. "{{ page.title }}":http://fosspatents.blogspot.com/2011/12/british-telecom-sues-google-over-six.html
+
+bq. After Apple, Oracle, Microsoft, and eBay, British Telecommunications plc has just become the fifth large publicly-traded company to bring patent infringement litigation against Android.
+
+My theory is that Google uses its advertising business model to drive down the price of software and services.  It makes them a lot of enemies.
+
