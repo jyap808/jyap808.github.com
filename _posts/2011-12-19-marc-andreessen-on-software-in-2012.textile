@@ -1,0 +1,16 @@
+---
+layout: post
+title: Marc Andreessen on software in 2012
+date: 2011-12-19 12:21
+---
+
+h1. "{{ page.title }}":http://news.cnet.com/8301-1023_3-57345138-93/marc-andreessen-predictions-for-2012-and-beyond/
+
+bq. The big thing that happened in 2011 was sort of the rise of the verticals, and e-commerce was the hotbed of that. We saw the rise of a whole category of e-commerce category killers in verticals that 5 or 10 years ago couldn't support high growth companies because the markets weren't big enough.
+
+Every high margin vertical is a target.
+
+bq. But the new companies in e-commerce verticals are providing a very differentiating customer experience that is much more like shopping as entertainment.
+
+To compete against the low cost Amazon.com, offer a better and unique experience.  Think about markets that Amazon.com would have difficulty in competing in.  Think about ways that you can make your product exclusive.  The same rules apply for retail as well as e-commerce.
+
