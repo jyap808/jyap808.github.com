@@ -1,0 +1,13 @@
+---
+layout: post
+title: Evercore on the impact of Kindle Fire on other Android tablets
+date: 2011-12-05 11:35
+---
+
+h1. "{{ page.title }}":http://tech.fortune.cnn.com/2011/12/05/evercore-amazon-will-own-50-of-android-tablet-market-in-12/
+
+bq. Amazon's success may just vaporize other "for profit" Android tablet OEM roadmaps.
+
+The biggest competitor to Android tablets is Android itself through Amazon's Kindle Fire.  As I mentioned the other day "the Kindle Fire defines the bottom end in tablet pricing":/2011/12/03/the-kindle-fire-defines-the-bottom-end-in-tablet-pricing.html.
+
+The base price is so low that others such as Dell which "recently discontinued the Dell Streak 7":http://www.streaksmart.com/2011/12/dell-streak-7-no-longer-being-sold-from-dells-website.html can't compete as they rely on profits through hardware sales.
