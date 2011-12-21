@@ -26,6 +26,6 @@ h1(#evercore). "Evercore and the impact of Kindle Fire on other Android tablets"
 
 bq. Amazon's success may just vaporize other "for profit" Android tablet OEM roadmaps.
 
-The biggest competitor to Android tablets is Android itself through Amazon's Kindle Fire.  As I mentioned the other day "the Kindle Fire defines the bottom end in tablet pricing":/2011/12/02/Commentary.html#kindle_fire.
+The biggest competitor to Android tablets is Android itself through Amazon's Kindle Fire.  As I mentioned the other day "the Kindle Fire defines the bottom end in tablet pricing":/2011/12/03/the-kindle-fire-defines-the-bottom-end-in-tablet-pricing.html.
 
 The base price is so low that others such as Dell which "recently discontinued the Dell Streak 7":http://www.streaksmart.com/2011/12/dell-streak-7-no-longer-being-sold-from-dells-website.html can't compete as they rely on profits through hardware sales.
