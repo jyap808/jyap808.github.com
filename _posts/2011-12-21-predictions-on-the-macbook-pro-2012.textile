@@ -1,0 +1,22 @@
+---
+layout: post
+title: Predictions on the MacBook Pro 2012
+date: 2011-12-21 16:51
+---
+
+h1. {{ page.title }}
+
+"MacRumors":http://www.macrumors.com/2011/12/21/os-x-10-7-3-beta-reveals-active-work-on-retina-display-support-for-mac/ writes:
+
+bq. With new claims that Apple is set to release a new 15" MacBook Pro offering a resolution of 2880x1800 early next year, Apple's work on its HiDPI software support has also been gaining renewed attention.
+
+With the MacBook Air, there seems to be no compelling reason to have a MacBook Pro.
+
+I have a MacBook Air 13" 2010 model and I've also played around with a MacBook Pro 13" and the main difference is the SuperDrive that comes with the MacBook Pro.  The SuperDrive comes optionally as a USB external accessory for $79.
+
+I predict that Apple will drop the 13" MacBook Pro model and only focus on the 15" and 17".  HiDPI support will definitely be coming which works best at those screen sizes and will really suit professionals.
+
+I won't be surprised if Apple decides to drop the built-in SuperDrive entirely since it can be replicated with a USB external accessory.  In its place expect to see some other upgrade options such as a second hard disk drive.
+
+Again, this will have Apple leading the way with innovation and expect to see other manufacturers playing catch up in 2013.
+
