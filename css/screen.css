@@ -219,3 +219,27 @@ hr.front {
 #related h2 {
   margin-bottom: 1em;
 }
+
+/* iPad [portrait + landscape] */
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
+.title {
+  margin-bottom: 3.5em;
+}
+.site .title .twitter-follow-button {
+  margin-left: 0em;
+  margin-right: auto;
+  margin-top: 1.5em;
+  margin-bottom: 1em;
+}
+}
+
+/* iPhone [portrait + landscape] */
+@media only screen and (max-device-width: 480px) {
+	.site { width: 300px; }
+.site .title .twitter-follow-button {
+  float: left;
+  margin-right: auto;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+}
