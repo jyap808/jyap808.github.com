@@ -1,0 +1,22 @@
+---
+layout: post
+title: What Windows Phone needs to do for it to take off
+date: 2011-12-27 13:40
+---
+
+h1. {{ page.title }}
+
+Charlie Kindel "writes:":http://ceklog.kindel.com/2011/12/26/windows-phone-is-superior-why-hasnt-it-taken-off/
+
+bq. The carriers choose what devices get featured on those TV ads. They also choose what devices to train their RSP (retail sales professionals) to push. They choose to incent the RSPs to push one device over another.
+
+Overall a good blog post by Charlie that concludes that the popularity of Android smart phones comes from the push from RSP's.  I would agree with that.  The other side of the coin is tablets.  I would say that Android tablets are _not_ popular because they need to rest solely on their own merits.  In this case, the iPad is destroying them with the only 'Android' tablet with any current and future market penetration being the Kindle Fire.
+
+bq. For the record I believe apps are very important and app developers even more so.
+
+I believe that Microsoft will launch a huge marketing campaign in early 2012 surrounding apps.  They will want to send the message that 'Yes, out platform has great apps.'  Microsoft may not have many apps in their app store but quality counts.
+
+One reason why there are better apps for iOS and developers launch there first (compared to Android) is because of audience.  Developers make more money on iOS because their audience is accustomed to paying for apps and have come to expect a higher level of quality.  This in turn leads to a more discerning audience who are the early adopters in technology.  Developers launch on iOS first because it has become the platform for early adopters and because it has the mind share amongst the youth.
+
+Microsoft will try to emulate the approach of Apple's iOS through strong manufacturer partnerships.
+
