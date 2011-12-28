@@ -4,7 +4,7 @@ title: Google needs a partner for technologies like Dart
 date: 2011-12-25 08:35
 ---
 
-h1. "{{ page.title }}":http://www.example.com
+h1. {{ page.title }}
 
 "MG Seigler writes:":http://parislemon.com/post/14695710791/pay-to-stay
 
