@@ -4,8 +4,6 @@ title: We as a society have not had the time to digest and quantify the value of
 date: 2011-12-29 00:39
 ---
 
-h1. {{ page.title }}
-
 Hacker News "discussion":http://news.ycombinator.com/item?id=3402859 with "comment":http://news.ycombinator.com/item?id=3403006:
 
 bq. Apple's bullshit is strictly business. Google's and Facebook's bullshits affects peoples privacy, and, if they live in a country that values privacy, actually violates their fundamental rights.
