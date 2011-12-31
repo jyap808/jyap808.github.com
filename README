@@ -10,19 +10,3 @@ http://localhost:4000
 
 rake new_post["Post Title"]
 
-== Generic commentary ==
-
-if [ -f  "_posts/$(date +"%Y-%m-%d")-Commentary.textile" ]; then
-    echo "File exists"
-else
-    cat >> _posts/$(date +"%Y-%m-%d")-Commentary.textile << EOF
----
-layout: post
----
-
-h1. "LINK_TITLE":http://LINK.com
-
-COMMENTARY
-EOF
-fi
-
