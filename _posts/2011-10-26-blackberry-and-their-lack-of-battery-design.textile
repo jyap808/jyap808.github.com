@@ -2,9 +2,8 @@
 layout: post
 title: Blackberry and their lack of battery design
 date: 2011-10-26 22:50
+post-link: http://helpblog.blackberry.com/2011/10/extending-blackberry-6-blackberry-7-battery-life/
 ---
-
-h1. "{{ page.title }}":http://helpblog.blackberry.com/2011/10/extending-blackberry-6-blackberry-7-battery-life/
 
 The official Blackberry Help Blog posted some tips for extending battery life on their latest BlackBerry 6 and 7 OS phones.  It speaks volumes.
 

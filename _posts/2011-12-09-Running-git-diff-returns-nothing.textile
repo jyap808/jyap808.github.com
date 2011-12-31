@@ -3,8 +3,6 @@ layout: post
 title: Running 'git diff' returns nothing
 ---
 
-h1. {{ page.title }}
-
 I was surprised when I ran a 'git diff' command and it returned nothing.
 
 {% highlight bash %}

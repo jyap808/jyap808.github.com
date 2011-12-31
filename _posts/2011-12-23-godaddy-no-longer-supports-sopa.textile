@@ -2,9 +2,8 @@
 layout: post
 title: GoDaddy no longer supports SOPA
 date: 2011-12-23 10:00
+post-link: http://www.godaddy.com/newscenter/release-view.aspx?news_item_id=378
 ---
-
-h1. "{{ page.title }}":http://www.godaddy.com/newscenter/release-view.aspx?news_item_id=378
 
 bq. Go Daddy will support it when and if the Internet community supports it.
 

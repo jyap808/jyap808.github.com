@@ -4,8 +4,6 @@ title: What Windows Phone needs to do for it to take off
 date: 2011-12-27 13:40
 ---
 
-h1. {{ page.title }}
-
 Charlie Kindel "writes:":http://ceklog.kindel.com/2011/12/26/windows-phone-is-superior-why-hasnt-it-taken-off/
 
 bq. The carriers choose what devices get featured on those TV ads. They also choose what devices to train their RSP (retail sales professionals) to push. They choose to incent the RSPs to push one device over another.

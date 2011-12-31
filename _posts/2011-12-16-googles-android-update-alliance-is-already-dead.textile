@@ -2,9 +2,8 @@
 layout: post
 title: Google's Android Update Alliance Is Already Dead
 date: 2011-12-16 16:54
+post-link: http://www.pcmag.com/article2/0,2817,2397729,00.asp
 ---
-
-h1. "{{ page.title }}":http://www.pcmag.com/article2/0,2817,2397729,00.asp
 
 bq. As we close 2011 and head into 2012, we're still running into the same confused messaging, empty promises, and delayed announcements that have plagued Android OS updates from the beginning. This means that for all intents and purposes, the Google Android Update Alliance is already dead.
 

@@ -2,9 +2,8 @@
 layout: post
 title: Developers make more money on iOS compared to Android
 date: 2011-12-13 09:48
+post-link: http://blog.flurry.com/bid/79061/App-Developers-Bet-on-iOS-over-Android-this-Holiday-Season
 ---
-
-h1. "{{ page.title }}":http://blog.flurry.com/bid/79061/App-Developers-Bet-on-iOS-over-Android-this-Holiday-Season
 
 bq. Anecdotally, developers consistently tell us that they make more money on iOS, about three to four times as much. To be sure, we pulled a sample of in-app purchase data from a set of top apps with versions on both iOS and Android, comprising of several million daily active users (DAUs). Running the numbers, we find that, on average, for every $1.00 generated on iOS, the same app will generate $0.24 on Android.
 

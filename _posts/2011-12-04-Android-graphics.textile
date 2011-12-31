@@ -1,8 +1,8 @@
 ---
 layout: post
+title: Android graphics
+post-link: https://plus.google.com/105051985738280261832/posts/2FXDCz8x93s
 ---
-
-h1. "Android graphics":https://plus.google.com/105051985738280261832/posts/2FXDCz8x93s
 
 It's a very long post.
 

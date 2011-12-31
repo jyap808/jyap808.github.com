@@ -2,9 +2,8 @@
 layout: post
 title: Microsoft OneNote for iPad looks really clean
 date: 2011-12-12 16:14
+post-link: http://itunes.apple.com/us/app/onenote/id478105721?mt=8
 ---
-
-h1. "{{ page.title }}":http://itunes.apple.com/us/app/onenote/id478105721?mt=8
 
 Microsoft recently release OneNote for iPad and it looks pretty awesome. The theme and graphics are really clean and the everything just looks really well laid out.  Orientation rotation works great.
 

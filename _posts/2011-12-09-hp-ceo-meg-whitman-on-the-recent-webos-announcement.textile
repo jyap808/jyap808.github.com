@@ -2,9 +2,8 @@
 layout: post
 title: HP CEO Meg Whitman on the recent webOS announcement
 date: 2011-12-09 14:51
+post-link: http://www.theverge.com/2011/12/9/2624209/meg-whitman-marc-andreessen-web-os-open-source-interview/in/2388197
 ---
-
-h1. "{{ page.title }}":http://www.theverge.com/2011/12/9/2624209/meg-whitman-marc-andreessen-web-os-open-source-interview/in/2388197
 
 On HP creating new webOS hardware:
 

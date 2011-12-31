@@ -2,9 +2,8 @@
 layout: post
 title: Marc Andreessen on software in 2012
 date: 2011-12-19 12:21
+post-link: http://news.cnet.com/8301-1023_3-57345138-93/marc-andreessen-predictions-for-2012-and-beyond/
 ---
-
-h1. "{{ page.title }}":http://news.cnet.com/8301-1023_3-57345138-93/marc-andreessen-predictions-for-2012-and-beyond/
 
 bq. The big thing that happened in 2011 was sort of the rise of the verticals, and e-commerce was the hotbed of that. We saw the rise of a whole category of e-commerce category killers in verticals that 5 or 10 years ago couldn't support high growth companies because the markets weren't big enough.
 

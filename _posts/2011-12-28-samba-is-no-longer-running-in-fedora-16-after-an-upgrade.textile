@@ -4,8 +4,6 @@ title: Samba service is no longer running in Fedora 16 after an upgrade
 date: 2011-12-28 10:46
 ---
 
-h1. {{ page.title }}
-
 I found that the Samba service was no longer running after an upgrade to Fedora 16 and it didn't show up as an actual service.
 
 Services are now controlled by systemd instead of system V. Look for samba with something like:

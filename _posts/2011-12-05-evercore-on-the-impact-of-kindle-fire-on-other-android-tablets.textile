@@ -2,9 +2,8 @@
 layout: post
 title: Evercore on the impact of Kindle Fire on other Android tablets
 date: 2011-12-05 11:35
+post-link: http://tech.fortune.cnn.com/2011/12/05/evercore-amazon-will-own-50-of-android-tablet-market-in-12/
 ---
-
-h1. "{{ page.title }}":http://tech.fortune.cnn.com/2011/12/05/evercore-amazon-will-own-50-of-android-tablet-market-in-12/
 
 bq. Amazon's success may just vaporize other "for profit" Android tablet OEM roadmaps.
 

@@ -2,9 +2,8 @@
 layout: post
 title: Nexus One will not be receiving Android 4.0 Ice Cream Sandwich
 date: 2011-10-27 09:00
+post-link: http://techcrunch.com/2011/10/26/the-nexus-one-isnt-invited-to-the-ice-cream-sandwich-social/
 ---
-
-h1. "{{ page.title }}":http://techcrunch.com/2011/10/26/the-nexus-one-isnt-invited-to-the-ice-cream-sandwich-social/
 
 Google recently announced that the Nexus One phone will not be upgraded to Android 4.0 Ice Cream Sandwich.
 

@@ -3,8 +3,6 @@ layout: post
 title: What Eric Schmidt actually said
 ---
 
-h1. {{ page.title }}
-
 bq. Whether you like Android or not, you will support that platform, and maybe you'll even deliver it first.
 
 The quote above is significant because it was transcribed incorrectly in Stephen Shankland's "CNET article.":http://news.cnet.com/8301-30685_3-57338276-264/googles-schmidt-android-leads-the-iphone/ A couple of prominent bloggers took the incorrect quote and ran with it as the headline to "their":http://www.marco.org/2011/12/07/eric-schmidt-android-leads-the-iphone "posts.":http://daringfireball.net/linked/2011/12/07/marco-or-not

@@ -2,9 +2,8 @@
 layout: post
 title: Louis CK's comedy special has already made a profit
 date: 2011-12-13 10:41
+post-link: http://www.npr.org/2011/12/13/143581710/louis-c-k-reflects-on-louie-loss-love-and-life
 ---
-
-h1. "{{ page.title }}":http://www.npr.org/2011/12/13/143581710/louis-c-k-reflects-on-louie-loss-love-and-life
 
 NPR reports:
 

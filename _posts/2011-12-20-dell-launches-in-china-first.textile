@@ -2,9 +2,8 @@
 layout: post
 title: Dell launches in China first
 date: 2011-12-20 10:51
+post-link: http://news.idg.no/cw/art.cfm?id=8581338D-A891-D7D1-DA6E957BB7E3E2A9
 ---
-
-h1. "{{ page.title }}":http://news.idg.no/cw/art.cfm?id=8581338D-A891-D7D1-DA6E957BB7E3E2A9
 
 bq. Dell will choose to release more and more products for China, as its first place to launch in the world, because China is becoming an important market.
 

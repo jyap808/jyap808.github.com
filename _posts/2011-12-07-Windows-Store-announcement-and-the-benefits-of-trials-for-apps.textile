@@ -1,9 +1,8 @@
 ---
 layout: post
 title: Windows Store announcement and the benefits of trials for apps
+post-link: http://blogs.msdn.com/b/windowsstore/archive/2011/12/06/announcing-the-new-windows-store.aspx
 ---
-
-h1. "{{ page.title}}":http://blogs.msdn.com/b/windowsstore/archive/2011/12/06/announcing-the-new-windows-store.aspx
 
 I was checking out Windows Phone Marketplace last week and like other stores a lot of it is based on Apple's App Store.  I liked that it also had a yearly developer fee and apps needed to be approved.
 

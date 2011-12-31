@@ -2,9 +2,8 @@
 layout: post
 title: UI fragmentation of Google apps on Android
 date: 2011-12-11 22:19
+post-link: http://minming.posterous.com/google-currents-yet-another-contribution-to-t
 ---
-
-h1. "{{ page.title }}":http://minming.posterous.com/google-currents-yet-another-contribution-to-t
 
 Former Google UX designer intern Lo Min Ming on Google apps on Android:
 

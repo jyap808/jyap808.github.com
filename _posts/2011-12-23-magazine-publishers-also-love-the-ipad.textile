@@ -2,9 +2,8 @@
 layout: post
 title: Magazine publishers also love the iPad
 date: 2011-12-23 10:21
+post-link: http://allthingsd.com/20111223/maybe-apples-newsstand-really-was-a-present-for-publishers/
 ---
-
-h1. "{{ page.title }}":http://allthingsd.com/20111223/maybe-apples-newsstand-really-was-a-present-for-publishers/
 
 bq. The really promising indicator for Pop Sci isn’t the one-week sales leap of 13 percent — it’s that the the magazine’s growth picked up after that week, with more velocity.
 

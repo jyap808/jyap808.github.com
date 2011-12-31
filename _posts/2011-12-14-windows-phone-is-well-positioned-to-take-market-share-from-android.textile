@@ -4,8 +4,6 @@ title: Windows Phone is well positioned to take market share from Android
 date: 2011-12-14 09:59
 ---
 
-h1. {{ page.title }}
-
 According to figures from "Gartner":http://www.gartner.com/it/page.jsp?id=1848514 Microsoft's smartphone share was just 1.5% in 3Q 2011.
 
 I think they're well positioned to take market share from smart phone leader Android.

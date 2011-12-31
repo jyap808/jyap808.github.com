@@ -4,8 +4,6 @@ title: Google needs a partner for technologies like Dart
 date: 2011-12-25 08:35
 ---
 
-h1. {{ page.title }}
-
 "MG Seigler writes:":http://parislemon.com/post/14695710791/pay-to-stay
 
 bq. One thing is certain: Google is not paying Mozilla a billion dollars out of the kindness of their hearts. Doing so would be irresponsible to their shareholders. Again, they’re paying all that money to a competitor.

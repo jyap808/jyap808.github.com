@@ -3,8 +3,6 @@ layout: post
 title: Xcode 4.2 notes
 ---
 
-h1. {{ page.title }}
-
 These are the most pertinent features to me.
 
 h2. Default compiler

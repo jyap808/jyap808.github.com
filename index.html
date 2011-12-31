@@ -10,6 +10,11 @@ title: Home
       <div class="front">
         <div align="right"><a href="{{ post.url }}" title="Permanent link to: '{{ post.title }}'">{{ post.date | date:"%A, %e %B %Y" }}</a></div>
         </br>
+        {% if post.post-link %}
+        <h1><a href="{{ post.post-link }}">{{ post.title }}</a></h1>
+        {% else %}
+        <h1>{{ post.title }}</h1>
+        {% endif %}
         {{ post.content }}
         </br>
         </br>

@@ -2,9 +2,8 @@
 layout: post
 title: Apple wants to offer you a revolutionary television experience
 date: 2011-12-28 14:19
+post-link: http://www.appleinsider.com/articles/11/12/28/apple_wants_to_offer_television_subscribers_customized_channel_lineups.html
 ---
-
-h1. "{{ page.title }}":http://www.appleinsider.com/articles/11/12/28/apple_wants_to_offer_television_subscribers_customized_channel_lineups.html
 
 bq. Hardware and technology are not the issues holding back Apple from releasing a television set, he said. Instead, Apple must negotiate unique content deals that will allow the company to differentiate its product from other televisions on the market.
 

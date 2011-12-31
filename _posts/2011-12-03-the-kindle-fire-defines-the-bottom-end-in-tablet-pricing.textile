@@ -2,9 +2,8 @@
 layout: post
 title: The Kindle Fire defines the bottom end in tablet pricing
 date: 2011-12-03 00:10
+post-link: http://www.isuppli.com/Display-Materials-and-Systems/News/Pages/Red-Hot-Kindle-Fire-Blazes-its-Way-to-Second-Place-in-Media-Tablet-Market.aspx
 ---
-
-h1. "{{ page.title }}":http://www.isuppli.com/Display-Materials-and-Systems/News/Pages/Red-Hot-Kindle-Fire-Blazes-its-Way-to-Second-Place-in-Media-Tablet-Market.aspx
 
 bq. Most other Android tablet makers must earn a profit based on hardware sales alone. In contrast, Amazon plans to use the Kindle Fire to drive sales of physical goods that comprise the majority of the company’s business. As long as this strategy is successful, the company can afford to take a loss on the hardware—while its Android competitors cannot.
 

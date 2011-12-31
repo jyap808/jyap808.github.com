@@ -2,9 +2,8 @@
 layout: post
 title: Louis CK self releases his performance at the Beacon Theater and future distribution
 date: 2011-12-11 00:45
+post-link: http://louisck.com
 ---
-
-h1. "{{ page.title }}":http://louisck.com
 
 Louis CK on purchasing his performance:
 

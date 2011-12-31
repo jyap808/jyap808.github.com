@@ -2,9 +2,8 @@
 layout: post
 title: CentOS 6 minimal install CD. You may not want to bother with it.
 date: 2011-08-10 22:40
+post-link: http://lists.centos.org/pipermail/centos-announce/2011-July/017660.html
 ---
-
-h1. "{{ page.title }}":http://lists.centos.org/pipermail/centos-announce/2011-July/017660.html
 
 I tried out the CentOS 6 minimal install CD yesterday when installing CentOS 6 for the first time on a virtual server.  Just a precaution: It is really minimal.  There are no package selection options during the install process and lots of things which I thought would be on a minimal install (you know based on past releases, that kind of thing) were missing which was frustrating.
 
