@@ -20,3 +20,9 @@ bq. The bootloader was locked per the carrier, in addition to meeting security, 
 
 While it may be possible to ship a tablet without a locked bootloader, it seems to me that it may not even be _possible_ to ship a cell phone device _without_ a locked bootloader because of regulatory guidelines.
 
+Ars Technica also "mentions":http://arstechnica.com/gadgets/news/2011/05/google-blocks-android-movie-rentals-from-rooted-devices.ars YouTube-powered movie rentals as being a point of incompatibility with rooted devices:
+
+bq. Google is restricting access to its YouTube-powered movie rental service to non-rooted devices. Users with rooted devices attempting to watch Android rentals will get an "Error 49" message, noting that their device was unable to "fetch license for movie."
+
+It seems to me that manufacturer provided bootloader unlocking tools are a good way of catering to the unlocker community as well as being a convenient way for manufacturers to display a warning message that unlocking the bootloader also voids the warranty.  The "HTC unlock process":http://htcdev.com/bootloader/preview_unlock_process involves submitting a device ID token to a HTC web site which then sends you back an unlock key.  This sounds like a great way to track devices who have voluntarily unlocked their device and therefore voided the warranty.
+
