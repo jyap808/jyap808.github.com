@@ -1,0 +1,26 @@
+---
+layout: post
+title: Trends in Google+ comments
+date: 2012-01-05 02:01
+---
+
+Google+ comments (it's annoying that you can't link directly to individual comments) by the very nature of them being on a Google branded service will always tend to be pro-Google and therefore pro-Android.
+
+It's really evident in the commentary found in "MG Siegler's Google+ profile":https://plus.google.com/107753428759636856492.
+
+You will also see lots of +1's for pro-Google comments.
+
+bq. Over exaggeration of a small problem.
+
+bq. MG missed a point here. Most users don't care about updates. The ones who do, either get Nexus phones, or flash custom ROMs.
+
+These 2 comments from a "user":https://plus.google.com/100236845124243572289 in an individual "post":https://plus.google.com/107753428759636856492/posts/eeBL4s5NsR7 received quite a few +1's and I think it generally sums up the view point of where commenters are coming from when they read MG's articles.  They don't really see the point as they're already going for the opposing team.  Nothing's going to convince them otherwise.
+
+But the commenter misses crucial points too.  Users care about new features and security which require updates.  Developers also care about updates and would love it if they could target a newer API level.
+
+I personally don't feel that Google is the same company they were 5 years ago.  Perhaps the advent of Larry Page as CEO has led them to streamline their products but also their business model and who they are moving forward.  Google 2.0.  More focused on volume and targeted advertising than ever before.
+
+I think in this streamlining process Google has lost a lot of goodwill and trust in tech circles.  The general populous are slowly understanding the privacy implications of Google's advertising and I often read the phrase these days that with Google, the end user is not the customer.
+
+Gmail which came before the streamlining of Google stretches across a wide demographic of users but Google+ which came about as the major force of the streamlining feels more unreal (and not in a good way).
+
