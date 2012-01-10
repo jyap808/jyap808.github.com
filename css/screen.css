@@ -17,7 +17,7 @@ html, body {
 
 body {
   background-color: white;
-  font: 13.34px helvetica, arial, clean, sans-serif;
+  font: 13.34px helvetica neue, helvetica, arial, clean, sans-serif;
   *font-size: small;
   text-align: center;
 }
@@ -111,7 +111,7 @@ hr.front {
 }
 
 .site .title a {
-  font-size: 130%;
+  font-size: 150%;
   color: #a00;
   text-decoration: none;
 }
