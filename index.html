@@ -11,7 +11,6 @@ title: Home
       {% capture post_date %}{{ post.date | date: "%Y%m%d" }}{% endcapture %}
       {% if post_date != prev_post_date %}
         <div align="right" class="date-container">{{ post.date | date:"%A, %e %B %Y" | upcase }}</div>
-      {% else %}
       {% endif %}
       {% capture prev_post_date %}{{ post.date | date: "%Y%m%d" }}{% endcapture %}
         </br>
