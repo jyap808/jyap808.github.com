@@ -6,14 +6,19 @@ title: Home
 <div id="home">
 
   <ul class="posts">
-    {% for post in site.posts limit: 5 %}
+    {% for post in site.posts limit: 10 %}
       <div class="front">
-        <div align="right"><a href="{{ post.url }}" title="Permanent link to: '{{ post.title }}'">{{ post.date | date:"%A, %e %B %Y" }}</a></div>
+      {% capture post_date %}{{ post.date | date: "%Y%m%d" }}{% endcapture %}
+      {% if post_date != prev_post_date %}
+        <div align="right" class="date-container">{{ post.date | date:"%A, %e %B %Y" | upcase }}</div>
+      {% else %}
+      {% endif %}
+      {% capture prev_post_date %}{{ post.date | date: "%Y%m%d" }}{% endcapture %}
         </br>
         {% if post.post-link %}
-        <h1><a href="{{ post.post-link }}">{{ post.title }}</a></h1>
+        <h1><a href="{{ post.post-link }}">{{ post.title }}</a> <a class="glyph-permalink" href="{{ post.url }}" title="Permanent link to: '{{ post.title }}'">&diams;</a></h1>
         {% else %}
-        <h1>{{ post.title }}</h1>
+        <h1>{{ post.title }} <a class="glyph-permalink" href="{{ post.url }}" title="Permanent link to: '{{ post.title }}'">&diams;</a></h1>
         {% endif %}
         {{ post.content }}
         </br>
@@ -26,7 +31,7 @@ title: Home
 
   <h1>Older Posts</h1>
   <ul class="posts">
-    {% for post in site.posts offset:5 %}
+    {% for post in site.posts offset:10 %}
       <li><span class="post_date">{{ post.date | date_to_string }}</span> &raquo; <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
