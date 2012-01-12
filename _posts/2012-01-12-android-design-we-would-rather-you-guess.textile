@@ -1,0 +1,16 @@
+---
+layout: post
+title: Android design - We would rather you guess
+date: 2012-01-12 12:12
+post-link: http://developer.android.com/design/patterns/pure-android.html
+---
+
+bq.. *Don't use right-pointing carets on line items*
+
+A common pattern on other platforms is the display of right-pointing carets on line items that allow the user to drill deeper into additional content.
+
+Android does not use such indicators on drill-down line items. Avoid them to stay consistent with the platform and in order to not have the user guess as to what the meaning of those carets may be.
+
+p. This was kind of amusing.  That 'right-pointing caret' is a UITableViewCellAccessoryDisclosureIndicator by the way.  I'm pretty sure 99% of iOS users know that particular indicator "means":http://developer.apple.com/library/ios/#documentation/UserExperience/Conceptual/MobileHIG/UIElementGuidelines/UIElementGuidelines.html#//apple_ref/doc/uid/TP40006556-CH13-SW1 that there will be a further screen with information associated with that row.
+
+Instead with Android you're left guessing as to what clicking on a cell will actually do since there are no indicators.  Contrary to what they are saying.
