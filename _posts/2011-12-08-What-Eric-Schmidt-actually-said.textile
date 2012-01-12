@@ -13,3 +13,5 @@ That is what he actually said.  I actually wanted to see the actual interview be
 
 The important word missing from the originally quoted CNET article is the word 'want'.  It totally changes the context of the message and it doesn't come across as threatening at all.  The basic stance from Google's perspective is that the Android platform has a significant market share and volume.  And with that volume comes an inkling that you may _want_ to develop for Android...  Which makes logical sense.
 
+*UPDATE:* This post was "featured on Hacker News":http://news.ycombinator.com/item?id=3328619 where it reached the number 1 position and received over 30,000 unique visitors.
+
