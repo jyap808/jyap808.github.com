@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introducing the Android Design site - Better late then never
+title: Introducing the Android Design site - Better late than never
 date: 2012-01-12 11:35
 post-link: http://android-developers.blogspot.com/2012/01/introducing-android-design-site.html
 ---
