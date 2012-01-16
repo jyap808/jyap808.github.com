@@ -35,10 +35,12 @@ p {
 }
 
 a {
+  text-decoration: none;
   color: #00a;
 }
 
 a:hover {
+  text-decoration: underline;
   color: black;
 }
 
@@ -127,6 +129,7 @@ a.glyph-permalink:hover {
 
 .site .title a:hover {
   color: black;
+  text-decoration: underline;
 }
 
 .site .title a.extra {

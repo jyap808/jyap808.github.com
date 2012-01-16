@@ -13,7 +13,7 @@ I genuinely enjoy writing and by nature I think a lot.  Writing helps to clear m
 
 What I aim to have on this site is my tech analysis, thoughts on future trends and other forms of pattern recognition.
 
-Please subscribe to my "Twitter":http://twitter.com/jyap and/or "RSS feed.":http://julianyap.com/atom.xml
+Please subscribe to my "Twitter":http://twitter.com/jyap and/or "RSS feed.":http://feeds.julianyap.com/julianyap
 
 Thanks.
 
