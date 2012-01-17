@@ -26,6 +26,7 @@ task :new_post, :title do |t, args|
     abort("rake aborted!") if ask("#{filename} already exists. Do you want to overwrite?", ['y', 'n']) == 'n'
   end
   puts "Creating new post: #{filename}"
+  puts "gvim #{filename}"
   open(filename, 'w') do |post|
     post.puts "---"
     post.puts "layout: post"
