@@ -5,5 +5,7 @@ date: 2012-01-20 09:22
 post-link: http://gigaom.com/2012/01/19/why-kodaks-bankruptcy-should-scare-nokia/
 ---
 
+Om Malik writes:
+
 bq. Yesterday, a friend of mine, someone who is quite savvy about technology and the startup landscape stopped by for a chat. Our conversation veered towards the state of the web, media and of course Silicon Valley. The gist of his argument was that in Silicon Valley we have big waves that are followed by many tiny waves and they all come in a cluster. You just need to be riding one of those waves – depending on the boldness of your idea, willingness to risk it all and adapting to a new way of thinking. And if you don’t, then you miss your chance to profit from it.
 
