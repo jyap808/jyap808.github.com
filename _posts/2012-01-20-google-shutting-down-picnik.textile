@@ -7,4 +7,6 @@ post-link: http://blog.picnik.com/2012/01/official-announcement-picnik-is-closin
 
 bq. Picnik will be closing on April 19, 2012.
 
+Already a ton of comments from unhappy users.
+
 This reminds me of the time Google shut down Slide and with it came "outraged SuperPoke Pets players":http://techcrunch.com/2011/08/27/superpoke-pets-outrage/.
