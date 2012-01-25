@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Apple buffers the dip in sales when a new model is announced
+title: How Apple buffers the dip in sales when a new model iPhone is announced
 date: 2012-01-24 23:16
 ---
 
