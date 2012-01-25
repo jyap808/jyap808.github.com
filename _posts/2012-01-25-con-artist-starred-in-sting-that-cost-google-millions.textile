@@ -5,6 +5,8 @@ date: 2012-01-25 09:22
 post-link: http://online.wsj.com/article_email/SB10001424052970204624204577176964003660658-lMyQjAxMTAyMDIwNTEyNDUyWj.html
 ---
 
+The Wall Street Journal reports:
+
 bq.. The government built its criminal case against Google using money, aliases and fake companies—tactics often used against drug cartels and other crime syndicates, according to interviews and court documents. Google agreed to pay a $500 million forfeiture last summer in a settlement to avoid prosecution for aiding illegal online pharmaceutical sales.
 
 Google acknowledged in the settlement that it had improperly and knowingly assisted online pharmacy advertisers allegedly based in Canada to run advertisements for illicit pharmacy sales targeting U.S. customers.
@@ -14,4 +16,8 @@ p. Amazing story.  I wasn't aware that the government was involved in this opera
 bq. "Google's employees were instrumental in bypassing policy regarding pharmacy verification," Mr. Whitaker told the Journal. "The websites were blatantly illegal."
 
 Don't be evil, indeed.
+
+bq. "Suffice to say this was not two or three rogue employees at the customer service level doing this on their own," said Mr. Neronha, the U.S. attorney. "This was corporate decision to engage in this conduct."
+
+Indefensible.
 
