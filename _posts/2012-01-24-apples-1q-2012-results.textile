@@ -5,7 +5,7 @@ date: 2012-01-24 14:38
 post-link:
 ---
 
-Apple just released it's 1Q 2012 financial results which "totally destroyed all estimates":http://tech.fortune.cnn.com/2012/01/23/our-apple-whisper-numbers-2/ with revenues of $46.33 billion.
+Apple just released its 1Q 2012 financial results which "totally destroyed all estimates":http://tech.fortune.cnn.com/2012/01/23/our-apple-whisper-numbers-2/ with revenues of $46.33 billion.
 
 Just to put that in perspective, Google had revenues of $37.905 billion for the "whole of 2011":http://investor.google.com/pdf/2011Q4_earnings_google.pdf.
 
