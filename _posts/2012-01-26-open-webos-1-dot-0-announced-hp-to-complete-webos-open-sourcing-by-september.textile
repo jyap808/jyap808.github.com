@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Open webOS 1.0 announced: HP to complete webOS open sourcing by September
+title: Open webOS 1.0 announced - HP to complete webOS open sourcing by September
 date: 2012-01-26 02:54
 post-link: http://www.theverge.com/2012/1/25/2732672/open-webos-10-announced
 ---
