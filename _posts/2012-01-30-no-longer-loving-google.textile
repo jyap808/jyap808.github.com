@@ -1,0 +1,19 @@
+---
+layout: post
+title: No longer loving Google
+date: 2012-01-30 15:36
+post-link: http://www.somebits.com/weblog/tech/no-longer-loving-google.html
+---
+
+Nelson Minar laments his love for his former employer Google: 
+
+bq. I imagine half of my readers are smugly thinking "See, I told you Google was evil all along". I don't think that's right. In particular I refuse to give in to a cynical view of Google's "Don't be evil" motto; that ethos was very real, a sincere and important guiding principle. And if a big company like Google can't avoid being evil, then what world-changing enterprise can? But I think Google as an organization has moved on; they're focussed now on market position, not making the world better. Which makes me sad.
+
+I would say that from a business perspective, Google is merely solidifying and focussing its market position as an advertising company.  It makes a lot of the Public Relations fluff about 'making the world better' a lot more transparent.
+
+I'd also argue that 'being evil' is subjective but it reminds me of the song and dance that the Miami Heat made when announcing the Big Three.  Other companies never claimed 'Don't be evil' as their motto so Google brought all this criticism and scrutiny upon themselves.
+
+Unfortunately Google's core business model of advertising means that it will trend towards getting ever more deceptive to fulfill the wishes of advertisers.  The 'evil' comes from lack of transparency towards the public who use their services such as search and Gmail.
+
+As the saying goes, 'there is no such as thing as a free lunch' but there are varying ways that a free lunch can come about.  Is a free lunch which comes bundled as part of other paid for services less evil compared to one which comes from advertising and selling the information of your users?  It certainly feels that way.
+
