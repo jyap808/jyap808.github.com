@@ -1,0 +1,13 @@
+---
+layout: post
+title: The Front Line
+date: 2012-01-31 23:50
+post-link: http://nolancaudill.com/2012/01/30/the-front-line/
+---
+
+Former Flickr employee Nolan Caudill writes:
+
+bq. For reasons I don't know, Yahoo laid off the highest level of Flickr's customer support, the people that end up filing bugs against the developers and helping the trickier cases get solved for the members. Those guys getting shown the door is as bad as it sounds.
+
+From a business perspective the reasons usually boil down to financials with blatant disregard and disrespect for everything else.
+
