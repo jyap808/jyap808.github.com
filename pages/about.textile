@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Colophon
+title: About
 ---
 
 h1. {{ page.title }}
@@ -16,4 +16,16 @@ What I aim to have on this site is my tech analysis, thoughts on future trends a
 Please subscribe to my "Twitter":http://twitter.com/jyap and/or "RSS feed.":http://feeds.julianyap.com/julianyap
 
 Thanks.
+
+h1. Colophon
+
+This website is produced primarily on an Apple MacBook Air 13" 2010 model.
+
+"Vim":http://www.vim.org/ is my only text editor.
+
+I'm a big fan of the succinct and straightforward Textile syntax which is the markup language used to create this site.
+
+This site runs "Jekyll":http://jekyllrb.com/, the simple, blog aware, static site generator.
+
+Site analytics are tracked using the GPL licensed "Piwik":http://piwik.org/.
 
