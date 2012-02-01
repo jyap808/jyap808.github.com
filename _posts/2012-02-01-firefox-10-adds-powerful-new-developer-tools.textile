@@ -1,0 +1,13 @@
+---
+layout: post
+title: Firefox 10 Adds Powerful New Developer Tools
+date: 2012-02-01 00:17
+post-link: http://blog.mozilla.com/blog/2012/01/31/firefox-adds-powerful-new-developer-tools/
+---
+
+bq. Firefox adds a number of new built-in developer tools that let developers change the look and feel of websites in real-time. With Page Inspector, developers can peek into a page’s structure and layout without having to leave Firefox. This means they can quickly navigate between page elements and view the HTML document structure for the page. Style Inspector makes editing the style of websites even easier. Now developers have quick access to CSS properties and can view or change values for their website within Firefox. 
+
+Some great new additions to my favorite web browser.
+
+I checked out the intro video and had a quick play around with the Page Inspector and Web Console which both work great. I previously used "Firebug":http://getfirebug.com/ but this feels much cleaner and more stable.  I think it's all I need for my minor CSS hacking requirements.
+
