@@ -1,0 +1,15 @@
+---
+layout: page
+title: Projects
+---
+
+h1. {{ page.title }}
+
+My iOS projects.
+
+<ul class="posts">
+  <li><a href="http://cameralensapps.com/nikon/">Nikon Lens Buddy:</a> Over 160 Nikon, Sigma, Tamron and Tokina lenses for Nikon cameras. Over 575 lens reviews. For iPhone, iPod touch, and iPad.</li>
+  <li><a href="http://cameralensapps.com/canon/">Canon Lens Buddy:</a> Over 150 Canon, Sigma, Tamron and Tokina lenses for Canon DSLR's. Over 735 lens reviews. For iPhone, iPod touch, and iPad.</li>
+  <li><a href="http://cameralensapps.com/mirrorless/">Mirrorless Lenses:</a> Over 75 Micro Four Thirds, Nikon CX, Sony E, Samsung NX, Pentax Q and Four Thirds Mount lenses. Over 205 reviews. For iPhone, iPod touch, and iPad.</li>
+</ul>
+

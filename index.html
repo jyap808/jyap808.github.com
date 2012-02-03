@@ -20,30 +20,18 @@ title: Home
         {% endif %}
         {{ post.content }}
         </br>
-        </br>
       </div>
       <hr class="front">
       </br>
     {% endfor %}
   </ul>
 
-  <h1>Older Posts</h1>
-  <ul class="posts">
-    {% for post in site.posts offset:10 %}
-      <li><span class="post_date">{{ post.date | date_to_string }}</span> &raquo; <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
-
   <h1>Pages</h1>
   <ul class="posts">
       <li><a href="{{ site.baseurl }}pages/about.html">About</a></li>
+      <li><a href="{{ site.baseurl }}pages/archives.html">Archives</a></li>
+      <li><a href="{{ site.baseurl }}pages/projects.html">Projects</a></li>
   </ul>
 
-  <h1>Projects</h1>
-  <ul class="posts">
-    <li><a href="http://cameralensapps.com/nikon/">Nikon Lens Buddy:</a> Over 160 Nikon, Sigma, Tamron and Tokina lenses for Nikon cameras. Over 575 lens reviews. For iPhone, iPod touch, and iPad.</li>
-    <li><a href="http://cameralensapps.com/canon/">Canon Lens Buddy:</a> Over 150 Canon, Sigma, Tamron and Tokina lenses for Canon DSLR's. Over 735 lens reviews. For iPhone, iPod touch, and iPad.</li>
-    <li><a href="http://cameralensapps.com/mirrorless/">Mirrorless Lenses:</a> Over 75 Micro Four Thirds, Nikon CX, Sony E, Samsung NX, Pentax Q and Four Thirds Mount lenses. Over 205 reviews. For iPhone, iPod touch, and iPad.</li>
-  </ul>
 </div>
 
