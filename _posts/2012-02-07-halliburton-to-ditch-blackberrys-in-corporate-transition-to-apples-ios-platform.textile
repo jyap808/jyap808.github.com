@@ -1,0 +1,13 @@
+---
+layout: post
+title: Halliburton to ditch BlackBerrys in corporate transition to Apple's iOS platform
+date: 2012-02-07 01:24
+post-link: http://www.appleinsider.com/articles/12/02/06/halliburton_to_ditch_blackberrys_in_corporate_transition_to_apples_ios_platform.html
+---
+
+bq. The move comes after "significant research" into both Apple's mobile platform and Google's Android operating system led Halliburton to "determined that the iOS platform offered the best capabilities, controls and security for application development."
+
+RIM has lost the general consumer and now their enterprise market is crumbling to the pressures of the inability to compete with modern smartphones.
+
+I feel the trend will be that more enterprises will move to iOS as opposed to Android, the main reason being platform security.
+
