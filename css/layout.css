@@ -23,7 +23,7 @@ body {
 }
 
 .container {
-  margin-top: 50px;
+  margin-top: 35px;
 }
 
 .container .footer {
@@ -73,7 +73,7 @@ a, a:visited {
   color: #aa0000;
   font-weight: bold;
   text-shadow: 1px 1px rgb(204, 204, 204);
-  margin-bottom: 3em;
+  line-height: 4em;
 }
 
 .title a {

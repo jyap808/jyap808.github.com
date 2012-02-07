@@ -19,10 +19,12 @@ title: Home
         <h1>{{ post.title }} <a class="glyph-permalink" href="{{ post.url }}" title="Permanent link to: '{{ post.title }}'">&diams;</a></h1>
         {% endif %}
         {{ post.content }}
-        </br>
       </div>
+      {% if forloop.last == false %}
+      </br>
       <hr class="front">
       </br>
+      {% endif %}
     {% endfor %}
   </ul>
 
