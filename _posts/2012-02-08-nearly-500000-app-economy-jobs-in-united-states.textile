@@ -7,5 +7,5 @@ post-link: http://www.technet.org/new-technet-sponsored-study-nearly-500000-app-
 
 bq. “America’s App Economy – which had zero jobs just 5 years ago before the iPhone was introduced – demonstrates that we can quickly create economic value and jobs through cutting-edge innovation,” said Rey Ramsey, President and CEO of TechNet.  “Today, the App Economy is creating jobs in every part of America, employing hundreds of thousands of U.S. workers today and even more in the years to come.”
 
-The "full study":http://www.technet.org/wp-content/uploads/2012/02/TechNet-App-Economy-Jobs-Study.pdf entitled “Where the Jobs Are” is worth reading.  You can skip through the 'methodology' part.
+The "full study":http://www.technet.org/wp-content/uploads/2012/02/TechNet-App-Economy-Jobs-Study.pdf entitled “Where the Jobs Are” is worth reading.  You can skip through the 'Methodology' part which just talks about how they came about the estimated figures.
 
