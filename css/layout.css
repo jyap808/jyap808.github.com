@@ -152,6 +152,27 @@ a.glyph-permalink:hover {
   color: #aa0000;
 }
 
+code {
+  background-color: #eef;
+  font-size: 85%;
+  padding: 0 .2em;
+  display: block;
+  padding: 0.5em 1em;
+  border: 1px solid #bebab0;
+}
+
+/* terminal */
+
+pre.terminal {
+  border: 1px solid black;
+  background-color: #333;
+  color: white;
+}
+
+pre.terminal code {
+  background-color: #333;
+}
+
 /* #Page Styles
 ================================================== */
 
