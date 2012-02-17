@@ -15,3 +15,5 @@ Is it fair that Google purposefully circumvented these default privacy settings 
 
 Expect to see Apple to address this legitimate browser exploit in the next security updates to OS X and iOS.
 
+*UPDATE:* Jonathan Mayer, the grad student at Stanford whose research brought this issue to the WSJ, has recently put up a "detailed post":http://webpolicy.org/2012/02/17/safari-trackers/ with further technical details.
+
