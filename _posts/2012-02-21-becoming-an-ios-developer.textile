@@ -1,0 +1,17 @@
+---
+layout: post
+title: Becoming an iOS Developer
+date: 2012-02-21 00:29
+post-link: http://joshsmithonwpf.wordpress.com/2012/02/19/becoming-an-ios-developer/
+---
+
+Josh Smith relays his experience moving from programming in Microsoft's Windows Presentation Foundation to Apple's iOS:
+
+bq.. When you move to iOS, you will need to leave behind most of what you know about UI programming from the .NET world. Fundamental things like object-oriented programming, virtual methods, properties, and loops are still relevant, and having knowledge of those things is essential. But knowledge alone won’t be enough to get you up and writing an iOS app.
+
+You will need to re-map your existing concepts and knowledge onto a new programming language, UI platform, APIs, operating system, IDE, keyboard shortcuts, debugger, error messages, etc. This takes time, and can be frustrating for people who are accustomed to being competent and productive in another environment.
+
+p. It may take any decent programmer a week or two to pick up the basics of Objective-C or any language for that matter.  The next steps and real challenges involve learning the frameworks and API's.  There's a certain amount of basic knowledge you need to commit to memory and beyond that comes expertise.
+
+What defines you as a software engineer is where you decide to devote your time and energy.  Your brain has a finite capacity so you need to make conscious decisions on what you want to fill it with.  You need to believe that taking those next steps will get you somewhere you want to go.
+
