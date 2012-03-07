@@ -11,5 +11,5 @@ bq. Some folks have told me that it is unfair compare iOS and Android on this me
 
 For all the press that Android's recent release Ice Cream Sandwich has received, the fact remains that from latest figures it only runs on 1.6% of devices.
 
-iOS 5 is the most important release as it offers over the air updates.  The adoption curve for any major or minor release of iOS is now measured in days as opposed to weeks.
+iOS 5 is the operating system's most important release as it offers over the air updates.  The adoption curve for any major or minor release of iOS is now measured in days as opposed to weeks.
 
