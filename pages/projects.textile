@@ -8,10 +8,11 @@ h1. {{ page.title }}
 My iOS projects.
 
 <ul class="posts">
-  <li><a href="http://cameralensapps.com/nikon/">Nikon Lens Buddy:</a> Over 160 Nikon, Sigma, Tamron and Tokina lenses for Nikon cameras. Over 575 lens reviews. For iPhone, iPod touch, and iPad.</li>
+  <li><a href="http://cameralensapps.com/nikon/">Nikon Lens Buddy:</a> Over 165 Nikon, Sigma, Tamron and Tokina lenses for Nikon cameras. Over 600 lens reviews. For iPhone, iPod touch, and iPad.</li>
   <li><a href="http://cameralensapps.com/canon/">Canon Lens Buddy:</a> Over 150 Canon, Sigma, Tamron and Tokina lenses for Canon DSLR's. Over 735 lens reviews. For iPhone, iPod touch, and iPad.</li>
-  <li><a href="http://cameralensapps.com/mirrorless/">Mirrorless Lenses:</a> Over 75 Micro Four Thirds, Nikon CX, Sony E, Samsung NX, Pentax Q and Four Thirds Mount lenses. Over 205 reviews. For iPhone, iPod touch, and iPad.</li>
-  <li><a href="http://cameralensapps.com/olympus/">Olympus Lens Buddy:</a> Over 55 Olympus, Panasonic, Samyang, Noktor, Sigma and Voigtländer lenses for Olympus cameras. Over 190 reviews. For iPhone, iPod touch, and iPad.</li>
-  <li><a href="http://cameralensapps.com/panasonic/">Panasonic Lens Buddy:</a> Over 55 Panasonic, Olympus, Samyang, Noktor, Sigma and Voigtländer lenses for Panasonic cameras. Over 190 reviews. For iPhone, iPod touch, and iPad.</li>
+  <li><a href="http://cameralensapps.com/mirrorless/">Mirrorless Lenses:</a> Over 75 Micro Four Thirds, Nikon CX, Sony E, Samsung NX, Pentax Q and Four Thirds Mount lenses. Over 230 reviews. For iPhone, iPod touch, and iPad.</li>
+  <li><a href="http://cameralensapps.com/olympus/">Olympus Lens Buddy:</a> Over 55 Olympus, Panasonic, Samyang, Noktor, Sigma and Voigtländer lenses for Olympus cameras. Over 205 reviews. For iPhone, iPod touch, and iPad.</li>
+  <li><a href="http://cameralensapps.com/panasonic/">Panasonic Lens Buddy:</a> Over 55 Panasonic, Olympus, Samyang, Noktor, Sigma and Voigtländer lenses for Panasonic cameras. Over 205 reviews. For iPhone, iPod touch, and iPad.</li>
+  <li><a href="http://buddylabsapps.com/quicksignature/">Quick Signature:</a> Quick Signature is the quickest and easiest way to add multiple email signature support to your iPhone and iPad!</a>
 </ul>
 
