@@ -9,7 +9,7 @@ My iOS projects.
 
 <ul class="posts">
   <li><a href="http://itunes.apple.com/us/app/nikon-lens-buddy-lenses-for/id459052975?mt=8&partnerId=30&siteID=XHwTgHE3bXg">Nikon Lens Buddy:</a> Over 165 Nikon, Sigma, Tamron and Tokina lenses for Nikon cameras. Over 600 lens reviews. For iPhone, iPod touch, and iPad.</li>
-  <li><a href="http://itunes.apple.com/us/app/canon-lens-buddy-lenses-for/id450111426?mt=8&partnerId=30&siteID=XHwTgHE3bXg">Canon Lens Buddy:</a> Over 170 Canon, Sigma, Tamron, Carl Zeiss and Tokina lenses for Canon DSLR's. Over 800 lens reviews. For iPhone, iPod touch, and iPad.</li>
+  <li><a href="http://itunes.apple.com/us/app/canon-lens-buddy-lenses-for/id450111426?mt=8&partnerId=30&siteID=XHwTgHE3bXg">Canon Lens Buddy:</a> Over 170 Canon, Sigma, Tamron, Carl Zeiss and Tokina lenses for Canon DSLR's. Over 820 lens reviews. For iPhone, iPod touch, and iPad.</li>
   <li><a href="http://itunes.apple.com/us/app/mirrorless-lenses/id428755110?mt=8&partnerId=30&siteID=XHwTgHE3bXg">Mirrorless Lenses:</a> Over 80 Micro Four Thirds, Nikon CX, Sony E, Samsung NX, Pentax Q and Four Thirds Mount lenses. Over 255 reviews. For iPhone, iPod touch, and iPad.</li>
   <li><a href="http://itunes.apple.com/us/app/olympus-lens-buddy/id492533928?mt=8&partnerId=30&siteID=XHwTgHE3bXg">Olympus Lens Buddy:</a> Over 55 Olympus, Panasonic, Samyang, Noktor, Sigma and Voigtländer lenses for Olympus cameras. Over 225 reviews. For iPhone, iPod touch, and iPad.</li>
   <li><a href="http://itunes.apple.com/us/app/panasonic-lens-buddy/id497328941?mt=8&partnerId=30&siteID=XHwTgHE3bXg">Panasonic Lens Buddy:</a> Over 55 Panasonic, Olympus, Samyang, Noktor, Sigma and Voigtländer lenses for Panasonic cameras. Over 205 reviews. For iPhone, iPod touch, and iPad.</li>
