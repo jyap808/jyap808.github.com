@@ -14,5 +14,6 @@ My iOS projects.
   <li><a href="http://itunes.apple.com/us/app/olympus-lens-buddy/id492533928?mt=8&partnerId=30&siteID=XHwTgHE3bXg">Olympus Lens Buddy:</a> Over 55 Olympus, Panasonic, Samyang, Noktor, Sigma and Voigtländer lenses for Olympus cameras. Over 225 reviews. For iPhone, iPod touch, and iPad.</li>
   <li><a href="http://itunes.apple.com/us/app/panasonic-lens-buddy/id497328941?mt=8&partnerId=30&siteID=XHwTgHE3bXg">Panasonic Lens Buddy:</a> Over 55 Panasonic, Olympus, Samyang, Noktor, Sigma and Voigtländer lenses for Panasonic cameras. Over 205 reviews. For iPhone, iPod touch, and iPad.</li>
   <li><a href="http://itunes.apple.com/us/app/quick-signature/id525393558?mt=8&partnerId=30&siteID=XHwTgHE3bXg">Quick Signature:</a> Quick Signature is the quickest and easiest way to add multiple email signature support to your iPhone and iPad!</a>
+  <li><a href="http://itunes.apple.com/us/app/quick-text-message/id583729997?mt=8&partnerId=30&siteID=XHwTgHE3bXg">Quick Text Message:</a> Quick Text Message is the quickest and easiest way to send frequently used text messages on your iPhone!</a>
 </ul>
 
