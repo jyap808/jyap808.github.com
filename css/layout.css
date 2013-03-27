@@ -1,5 +1,5 @@
 /*
-* Copyright 2012, Julian Yap
+* Copyright 2013, Julian Yap
 * This file contains all the base layout overrides that differ from Skeleton (www.getskeleton.com).
 * Feel free to use the HTML and CSS as you please but I would greatly appreciate if you put a little bit of effort into changing the colors and look of your site.
 * Please do not use the diamond glyph since I want to keep that unique in my design. 
@@ -14,6 +14,11 @@
 	#Page Styles
 	#Media Queries
 	#Font-Face */
+
+/* #Typography
+================================================== */
+
+p { margin: 15px 0 5px 0; }
 
 /* #Site Styles
 ================================================== */
