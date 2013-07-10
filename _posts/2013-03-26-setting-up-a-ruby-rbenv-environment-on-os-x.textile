@@ -16,6 +16,7 @@ Install rbenv and ruby-build via brew
 {% highlight bash %}
 brew update
 brew install rbenv
+brew install ruby-build
 {% endhighlight %}
 
 Add rbenv init to your shell to enable shims and autocompletion.
