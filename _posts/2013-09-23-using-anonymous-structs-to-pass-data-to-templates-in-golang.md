@@ -51,7 +51,7 @@ UUID: {{ .UUID}}
 
 What if we want to pass multiple objects to the template?
 
-A really clean solution I found was to use an "anonymous struct":http://nf.wh3rd.net/10things/#2:.
+A really clean solution I found was to use an [anonymous struct]"http://nf.wh3rd.net/10things/#2".
 
 In the following example, we are now modifying the pasteHandler function in the above example to pass extra boolean flags to the template.
 
