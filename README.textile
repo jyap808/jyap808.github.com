@@ -16,7 +16,7 @@ h1. My notes
 h2. Generate and run locally with automatic regeneration
 
 <pre><code>
-jekyll --server --auto
+jekyll serve --watch
 </code></pre>
 
 h2. Browse
