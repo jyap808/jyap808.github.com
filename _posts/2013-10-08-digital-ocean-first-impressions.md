@@ -19,9 +19,9 @@ On the default Ubuntu 12.04 x64 install there was no firewall installed by defau
 
 I ran some quick tests and benchmarks and Digital Ocean lives up to the hype.  Performance is fast and consistent.
 
-The main issue I have with VM online providers is inconsistent performance, be it disk, CPU or network IO.  Inconsistent performance means you need implement less than ideal workarounds such overprovisioning your servers or perform workarounds like [implementing software RAID 10](http://blog.9minutesnooze.com/raid-10-ebs-data/).
+The main issue I have with VM online providers is inconsistent performance, be it disk, CPU or network IO.  Inconsistent performance means you need to implement less than ideal workarounds such as overprovisioning your servers or performing workarounds like [implementing software RAID 10](http://blog.9minutesnooze.com/raid-10-ebs-data/).
 
-Imagine: The flexibility of virtual machines with the predictability of bare metal
+Imagine: The flexibility of virtual machines with the predictability of bare metal.
 
 Another thing I see myself doing is spinning up a VM just for quick testing.  Creating a VM literally takes a minute.
 
