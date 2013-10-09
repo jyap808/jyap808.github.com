@@ -9,21 +9,21 @@ I signed up for [Digital Ocean](https://www.digitalocean.com/?refcode=571ac31ec1
 
 Here are some first impressions.
 
-You can choose to create a virtual machine in 1 of 4 data centers.  Only the "New York 2" data center support Private Networking so for example if you create a virtual machine in "San Francisco 1", the virtual machine will only have a public IP interface.  If you are thinking of deploying a permanent system which will use N+1 servers then deploying to the "New York 2" data center is your only option so you don't need to expose services on a public IP just to talk to another one of your servers.  When creating a virtual machine, "New York 2" is the default data center selected.
+You can choose to create a virtual machine (a "droplet") in 1 of 4 data centers (a "region").  Only the "New York 2" data center supports Private Networking so for example if you create a VM in "San Francisco 1", the VM will only have a public IP interface.  If you are thinking of deploying a permanent system which will use N+1 servers then deploying to the "New York 2" data center is your only option so you don't need to expose services on a public IP just to talk to another one of your servers.  When creating a VM, "New York 2" is the default data center selected.
 
-Ubuntu 12.04 x32 is the default distribution selected when creating a virtual machine.  You should change this to a 64-bit distribution so that you have less hassles in case you want to resize your VM.  I had initially installed a Ubuntu 13.04 x64 VM but I had issues starting up the IPTables firewall and noticed that all of the documentation refers to 12.04 which would then be considered their best supported and maintained Ubuntu distribution version.
+Ubuntu 12.04 x32 is the default distribution selected when creating a VM.  You should change this to a 64-bit distribution so that you have less hassles in case you want to resize your VM.  I had initially installed an Ubuntu 13.04 x64 VM but I had issues starting up the IPTables firewall and noticed that all of the documentation refers to 12.04 which would then be considered their best supported and maintained Ubuntu distribution version.
 
-You should add a SSH key first in the web console so that you can select this during the install.  The installer only installs with a 'root' user and emails your the created password.  Having your SSH key pre-installed means you can automate additional install process items such creating another user account and disabling remote 'root' access.  Digital Ocean also has a nice REST API which spits back JSON.
+You should add a SSH key first in the web console so that you can select this during the install.  The installer only installs with a 'root' user and emails you the created password.  Having your SSH key pre-installed means you can automate additional install process items such creating another user account and disabling remote 'root' access.  Digital Ocean also has a nice REST API which spits back JSON.
 
 On the default Ubuntu 12.04 x64 install there was no firewall installed by default.  You should definitely [install UFW](https://www.digitalocean.com/community/articles/how-to-setup-a-firewall-with-ufw-on-an-ubuntu-and-debian-cloud-server) and implement a security policy for SSH access at a bare minimum.
 
 I ran some quick tests and benchmarks and Digital Ocean lives up to the hype.  Performance is fast and consistent.
 
-The main issue I have with virtual machines with online providers is inconsistent performance, be it disk, CPU or network IO.  Inconsistent performance means you need implement less than ideal workarounds such overprovisioning your servers or perform workarounds like [implementing software RAID 10](http://blog.9minutesnooze.com/raid-10-ebs-data/).
+The main issue I have with VM online providers is inconsistent performance, be it disk, CPU or network IO.  Inconsistent performance means you need implement less than ideal workarounds such overprovisioning your servers or perform workarounds like [implementing software RAID 10](http://blog.9minutesnooze.com/raid-10-ebs-data/).
 
 Imagine: The flexibility of virtual machines with the predictability of bare metal
 
-Another thing I see myself doing is spinning up virtual machines just for quick testing.  Creating a virtual machines literally takes a minute.
+Another thing I see myself doing is spinning up a VM just for quick testing.  Creating a VM literally takes a minute.
 
 Here is a quick ApacheBench test of a [Go application](https://github.com/jyap808/g0bin) serving up a static template.
 
