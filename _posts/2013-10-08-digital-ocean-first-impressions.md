@@ -25,6 +25,8 @@ Imagine: The flexibility of virtual machines with the predictability of bare met
 
 Another thing I see myself doing is spinning up a VM just for quick testing.  Creating a VM literally takes a minute.
 
+[Digital Ocean](https://www.digitalocean.com/?refcode=571ac31ec1b5) looks to have a great differentiator with SSD disks, pricing and overall impressive virtual machine performance.  At this early stage I can definitely recommend checking them out.
+
 Here is a quick ApacheBench test of a [Go application](https://github.com/jyap808/g0bin) serving up a static template.
 
 {% highlight console %}
