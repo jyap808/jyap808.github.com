@@ -20,7 +20,7 @@ While reading through some examples in GoLang is seemed strange that all the tut
 
 Here is an example:
 
-```go
+{% highlight go %}
 package main
 
 import (
@@ -43,7 +43,7 @@ func pasteHandler(w http.ResponseWriter, r *http.Request) {
     t, _ := template.ParseFiles("templates/paste.html")
     t.Execute(w, data)
 }
-```
+{% endhighlight %}
 
 Your template code would then look something like this:
 
