@@ -7,13 +7,13 @@ h1. {{ page.title }}
 
 I believe we live in interesting times.
 
-I am an Australian expatriate, 10+ year IT professional specializing in Systems Engineering, VoIP and iOS development living in Honolulu, Hawaii.
+I am an Australian expatriate, 10+ year IT professional specializing in Systems Engineering, VoIP and "iOS development":https://itunes.apple.com/us/artist/julian-yap/id428755113 living in Honolulu, Hawaii.
 
 By nature I think a lot.  Writing helps to clear my head.
 
 What I aim to have on this site is my tech analysis, thoughts on future trends and other forms of pattern recognition.
 
-Please subscribe to my "Twitter":http://twitter.com/jyap and/or "RSS feed.":http://feeds.julianyap.com/julianyap
+You can find me on "Twitter":http://twitter.com/jyap or "LinkedIn":http://www.linkedin.com/in/julianyap/.
 
 Thanks.
 
