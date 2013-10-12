@@ -24,8 +24,8 @@ p { margin: 15px 0 5px 0; }
 ================================================== */
 
 body {
-  color: #000000;
-  font: 15px/22px "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #454545;
+  font: 16px/22px "Source Sans Pro", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 .container {
@@ -165,7 +165,7 @@ code.go {
 code {
   color: #000;
   background-color: #f0f0f0;
-  font-size: 85%;
+  font-size: 80%;
   padding: 0 .2em;
   display: block;
   padding: 0.5em 1em;

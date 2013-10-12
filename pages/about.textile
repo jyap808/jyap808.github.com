@@ -23,8 +23,6 @@ This website is produced primarily on an Apple MacBook Pro Retina 13" 2013 model
 
 "Vim":http://www.vim.org/ is my only text editor.
 
-I'm a big fan of the succinct and straightforward Textile syntax which was the markup language used to create this site. I have however reluctantly switched to using Markdown since it's become more of a standard.
-
 This site runs "Jekyll":http://jekyllrb.com/, the simple, blog aware, static site generator.
 
 This site does not run any site analytics.
