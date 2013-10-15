@@ -165,12 +165,18 @@ code.go {
 code {
   color: #000;
   background-color: #f0f0f0;
-  font-size: 80%;
-  padding: 0 .2em;
+  font-size: 11px;
   display: block;
-  padding: 0.5em 1em;
-  border: 1px solid #bebab0;
-  font-family: 'Ubuntu Mono', Consolas, 'Deja Vu Sans Mono', 'Bitstream Vera Sans Mono', Monaco, 'Courier New';
+  padding: 7px;
+  border: 1px solid #D1D1D1;
+  font-family: Monaco, Menlo, Consolas, 'Courier New', monospace;
+  -webkit-border-radius: 3px;
+  border-radius: 3px;
+}
+
+pre {
+  padding-bottom: 7px;
+  padding-top: 7px;
 }
 
 /* terminal */
