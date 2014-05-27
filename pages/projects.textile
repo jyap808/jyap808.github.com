@@ -5,7 +5,7 @@ title: Projects
 
 h1. {{ page.title }}
 
-My iOS projects.
+h2. My iOS projects
 
 <ul class="posts">
   <li><a href="http://itunes.apple.com/us/app/nikon-lens-buddy-lenses-for/id459052975?mt=8&uo=4&at=11l5Jj&ct=jy">Nikon Lens Buddy:</a> Over 180 Nikon, Sigma, Tamron and Tokina lenses for Nikon cameras. Over 720 lens reviews. For iPhone, iPod touch, and iPad.</li>
@@ -17,5 +17,31 @@ My iOS projects.
   <li><a href="http://itunes.apple.com/us/app/quick-text-message/id583729997?mt=8&uo=4&at=11l5Jj&ct=jy">Quick Text Message:</a> Quick Text Message is the quickest and easiest way to send frequently used text messages on your iPhone!</a>
   <li><a href="http://itunes.apple.com/us/app/pdf-this-page/id676493812?mt=8&uo=4&at=11l5Jj&ct=jy">PDF This Page:</a> PDF This Page is the quickest and easiest way to save your favorite web content to PDFs to view anywhere, anytime!</a>
   <li><a href="http://itunes.apple.com/us/app/red-web-to-pdf-converter/id734337654?mt=8&uo=4&at=11l5Jj&ct=jy">Red - Web to PDF Converter:</a> Red is designed for iOS 7 and is the quickest and easiest way to save your favorite web content to PDFs to view anywhere, anytime!</a>
+</ul>
+
+h2. My cryptocurrency projects
+
+Email newsletter
+
+<ul class="posts">
+  <li><a href="http://cryptocurrencyweekly.com">CryptocurrencyWeekly.com:</a> Subscribe to a hand picked round up of the best Cryptocurrency links every week. Curated and published every Friday. Free.</li>
+</ul>
+
+Block Explorers
+
+<ul class="posts">
+  <li><a href="http://ctminsight.buddylabsapps.com">Continuumcoin Blockchain Explorer</a></li>
+  <li><a href="http://nautinsight.buddylabsapps.com">Nautiluscoin Blockchain Explorer</a></li>
+  <li><a href="http://petroinsight.buddylabsapps.com">PetroDollar Blockchain Explorer</a></li>
+</ul>
+
+Mac QT wallets
+
+<ul class="posts">
+  <li>Continuumcoin (CTM)</li>
+  <li>Dirac (XDQ)</li>
+  <li>Nautiluscoin (NAUT)</li>
+  <li>OpenSourceCoin (OSC)</li>
+  <li>Zimstake (ZS)</li>
 </ul>
 
