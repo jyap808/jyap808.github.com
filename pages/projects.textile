@@ -33,6 +33,7 @@ Block Explorers
   <li><a href="http://ctminsight.buddylabsapps.com">Continuumcoin Blockchain Explorer</a></li>
   <li><a href="http://nautinsight.buddylabsapps.com">Nautiluscoin Blockchain Explorer</a></li>
   <li><a href="http://petroinsight.buddylabsapps.com">PetroDollar Blockchain Explorer</a></li>
+  <li><a href="http://rzrinsight.buddylabsapps.com">Razorcoin Blockchain Explorer</a></li>
 </ul>
 
 Mac QT wallets
@@ -42,6 +43,8 @@ Mac QT wallets
   <li>Dirac (XDQ)</li>
   <li>Nautiluscoin (NAUT)</li>
   <li>OpenSourceCoin (OSC)</li>
+  <li>Razorcoin (RZR)</li>
+  <li>Unobtanium (UNO)</li>
   <li>Zimstake (ZS)</li>
 </ul>
 
