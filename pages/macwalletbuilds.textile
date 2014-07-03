@@ -1,23 +1,23 @@
 ---
 layout: page
-title: Certified Mac Wallet Builds Program
+title: Signed Mac Wallet Builds Program
 ---
 
 h1. {{ page.title }}
 
 h3. Introduction
 
-This page outlines my Certified Mac Wallet Builds Program for the cryptocurrency community.
+This page outlines my Signed Mac Wallet Builds Program for the cryptocurrency community.
 
 I am heavily involved in the cryptocurrency scene and offer these services as I am a registered Mac and iOS developer with Apple.
 
 My offer is to *build and digitally sign* your coin's Mac Wallet using my *Apple-issued digital certificate and Developer ID*.
 
-The coin development team may then distribute an installer file for the Mac Wallet to your end users.  Your end users can download and use your Mac Wallet with confidence that it has been built by a trusted member of the community and is *malware free*.
+The coin development team can then make available an installer file for the signed Mac Wallet.  Your end users can download and use your Mac Wallet with confidence that it has been built by a trusted member of the community and is *malware free*.
 
 My aim as with all my cryptocurrency endeavors is to raise the level of *professionalism* and security in *cryptocurrency*.
 
-If you are an end user you should *request your coin develpment team* provide you with certified Mac Wallet builds so you can buy/sell/trade your favorite coins with confidence.
+If you are an end user you should *request your coin development team* provide you with signed Mac Wallet builds so you can buy/sell/trade your favorite coins with confidence.
 
 This program is priced at 0.38 Bitcoins, payable via my <a href="https://coinbase.com/jyap">Coinbase account</a>.
 
@@ -48,7 +48,7 @@ Sealed Resources version=1 rules=4 files=11
 Internal requirements count=1 size=192
 {% endhighlight %}
 
-In OS X 10.7, Apple introduced Gatekeeper which blocks applications downloaded from the internet which have not been signed.  In OS X 10.8, by default if an app is unsigned, Gatekeeper blocks the app from being installed and warns you that it did not come from an identified developer.  Having your Mac Wallet signed avoids this end user usability issue and enhances the trust of your Mac Wallet.
+In OS X 10.7, Apple introduced <a href="http://support.apple.com/kb/HT5290">Gatekeeper</a> which blocks applications downloaded from the internet which have not been signed.  In OS X 10.8, by default if an app is unsigned, Gatekeeper blocks the app from being installed and warns you that it did not come from an identified developer.  Having your Mac Wallet signed avoids this end user usability issue and enhances the trust of your Mac Wallet.
 
 INSTALLER SCREEN SHOTS GO HERE
 
