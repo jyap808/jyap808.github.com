@@ -27,32 +27,43 @@ My builds are performed on a Mac running OS X 10.7 and built against the 10.7 SD
 
 I have previously built Mac Wallets for coins such as Razorcoin, Nautiluscoin, Unobtanium, Pinkcoin and Zimstake.
 
-Here is an example of verifying one of my signed builds from the command line.
+Here is an example of verifying one of my *signed* builds from the command line.
 
 {% highlight console %}
-$ codesign -dvvv Bitcoin-Qt.app
-Executable=/Applications/Bitcoin-Qt.app/Contents/MacOS/Bitcoin-Qt
-Identifier=org.bitcoinfoundation.Bitcoin-Qt
+$ codesign -dvvv Razor-Qt.app
+Executable=/Applications/Razor-Qt.app/Contents/MacOS/Razor-Qt
+Identifier=org.razor.Razor-Qt
 Format=bundle with Mach-O thin (x86_64)
-CodeDirectory v=20100 size=153121 flags=0x0(none) hashes=7649+3 location=embedded
+CodeDirectory v=20100 size=47767 flags=0x0(none) hashes=2382+3 location=embedded
 Hash type=sha1 size=20
-CDHash=68b2974f209336f9b90a2435768a0ebac4d3b945
-Signature size=8544
-Authority=Developer ID Application: BITCOIN FOUNDATION, INC., THE
+CDHash=798ad9df0120644f6f5294656ad75b83029a3304
+Signature size=8519
+Authority=Developer ID Application: Julian Yap (35EY347E6X)
 Authority=Developer ID Certification Authority
 Authority=Apple Root CA
-Timestamp=Jun 19, 2014, 4:42:50 AM
-Info.plist entries=16
+Timestamp=Jul 3, 2014, 11:11:16 AM
+Info.plist entries=10
 TeamIdentifier=not set
-Sealed Resources version=1 rules=4 files=11
-Internal requirements count=1 size=192
+Sealed Resources version=1 rules=4 files=21
+Internal requirements count=1 size=180
+{% endhighlight %}
+
+This is the message you receive when you run the command on an *unsigned* wallet.
+
+{% highlight console %}
+$ codesign -dvvv Razor-Qt.app
+Razor-Qt.app: code object is not signed at all
 {% endhighlight %}
 
 In OS X 10.7, Apple introduced <a href="http://support.apple.com/kb/HT5290">Gatekeeper</a> which blocks applications downloaded from the internet which have not been signed.  In OS X 10.8, by default if an app is unsigned, Gatekeeper blocks the app from being installed and warns you that it did not come from an identified developer.  Having your Mac Wallet signed avoids this end user usability issue and enhances the trust of your Mac Wallet.
 
-INSTALLER SCREEN SHOTS GO HERE
+This is an example message you receive when you download, install and run a wallet that is NOT signed. Note that a user must explicitly override their security settings to run your wallet application. As an end user, this process opens you up to malicious code and possible malware entering your system. 
 
-Since I am heavily involved in the cryptocurrency scene, I am often readily available to perform emergency builds.  I have read numerous BitcoinTalk threads where coin developers go missing at a crucial moment in their coin's infancy, leading to block chain forks and suspended trading.
+!/images/unsigned_warning.png!
+
+This is an example message you receive when you download, install and run a wallet that is signed.  In this case the user has a Gatekeeper setting to allow apps downloaded from "Mac App Store and identified developers".  Note that there is no impediment for the user to open and run your wallet application.
+
+!/images/signed_message.png!
 
 h3. Agreement
 
@@ -64,7 +75,7 @@ Builds will be signed my Apple Mac developer account.  You agree to give me perm
 
 Only coins which are distributed using a FOSS (Free and Open Source Software) license will be accepted.  You agree to host the source code for your wallet in a publically accessible repository.
 
-While some code changes are often required to build a Mac executable, this agreement only extends to the first release build if there are significant code changes which render the wallet in a broken compilation state.  While I will endeavor to build future releases, I am under no obligation to fix broken code.
+While some code changes are often required to build a Mac executable, this agreement only extends to the first release build if there are significant code changes which renders the wallet in a broken compilation state.  While I will endeavor to build future releases, I am under no obligation to fix broken code.
 
 This program only provides a Mac Wallet installer file and does not cover submission to the Mac App Store.
 
