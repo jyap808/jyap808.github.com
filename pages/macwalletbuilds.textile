@@ -1,0 +1,72 @@
+---
+layout: page
+title: Certified Mac Wallet Builds
+---
+
+h1. {{ page.title }}
+
+h2. Introduction
+
+This page outlines my Certified Mac Wallet Builds program.
+
+I am heavily involved in the cryptocurrency scene and offer these services as I am a registered Mac and iOS developer with Apple.  You can see the iOS Apps I have in the App Store in my <a href="{{ site.baseurl }}pages/projects.html">Projects page</a>.
+
+My offer is to build and digitally sign your coin's Mac Wallet using my Apple-issued digital certificate and Developer ID.
+
+The may then distribute an installer file for your coin's Mac Wallet to your end users.  Your end users can download and use your Mac Wallet with confidence that it has been built by a trusted member of the community.
+
+My aim as with all my cryptocurrency endeavors is to raise the level of professionalism and security in cryptocurrency.
+
+This program is priced at 0.38 Bitcoins, payable via my <a href="https://coinbase.com/jyap">Coinbase account</a>.  Please contact me if you are interested.
+
+I believe this program offers excellent value and benefits for your coin and for your end users.
+
+h2. Further details
+
+My builds are performed on a Mac running OS X 10.7 and built against the 10.7 
+
+Since I am heavily involved in the cryptocurrency scene, I am often readily available to perform emergency builds.  I have read numerous BitcoinTalk threads where coin developers go missing at a crucial moment in their coin's infancy, leading to block chain forks and suspended trading.
+
+I have previously built Mac Wallets for coins such as Razorcoin, Nautiluscoin, Unobtanium, Pinkcoin and Zimstake.
+
+Here is an example of verifying one of my signed builds from the command line.
+
+```
+$ codesign -dvvv Bitcoin-Qt.app
+Executable=/Applications/Bitcoin-Qt.app/Contents/MacOS/Bitcoin-Qt
+Identifier=org.bitcoinfoundation.Bitcoin-Qt
+Format=bundle with Mach-O thin (x86_64)
+CodeDirectory v=20100 size=153121 flags=0x0(none) hashes=7649+3 location=embedded
+Hash type=sha1 size=20
+CDHash=68b2974f209336f9b90a2435768a0ebac4d3b945
+Signature size=8544
+Authority=Developer ID Application: BITCOIN FOUNDATION, INC., THE
+Authority=Developer ID Certification Authority
+Authority=Apple Root CA
+Timestamp=Jun 19, 2014, 4:42:50 AM
+Info.plist entries=16
+TeamIdentifier=not set
+Sealed Resources version=1 rules=4 files=11
+Internal requirements count=1 size=192
+```
+
+In OS X 10.7, Apple introduced Gatekeeper which blocks applications downloaded from the internet which have not been signed.  In OS X 10.8, by default if an app is unsigned, Gatekeeper blocks the app from being installed and warns you that it did not come from an identified developer.  Having your Mac Wallet signed avoids this end user usability issue and enhances the trust of your Mac Wallet.
+
+h2. Agreement
+
+I offer builds for up to 2 years or up to 5 releases (whichever comes first).
+
+You agree to host the downloadable installer file.  It is preferable that you host this on your own domain and not a 3rd party download service such as Dropbox, Google Drive or MEGA.
+
+Builds will signed my Apple Mac developer account.  You agree to give me permission to do this on behalf of your coin and your coin's community.
+
+Only coins which are distributed using a FOSS (Free and Open Source Software) license will be accepted.  You agree to host the source code for your wallet in a publically accessible repository.
+
+While some code changes are often required to build a Mac executable, this agreement only extends to the first release build if there are significant code changes which render the wallet in a broken compilation state.  While I will endeavor to build future releases, I am under no obligation to fix broken code.
+
+This program only provides a Mac Wallet installer file and does not cover submission to the Mac App Store.
+
+Acceptance to this program for any coin is solely under my discretion.
+
+July 2, 2014
+
