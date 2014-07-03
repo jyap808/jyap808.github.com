@@ -7,9 +7,9 @@ h1. {{ page.title }}
 
 h3. Introduction
 
-This page outlines my Signed Mac Wallet Builds Program for the cryptocurrency community.
+This page outlines my Signed Mac Wallet Builds Program.
 
-I am heavily involved in the cryptocurrency scene and offer these services as I am a registered Mac and iOS developer with Apple.
+I am heavily involved in the cryptocurrency community and I can offer this program as I am a *registered Mac and iOS developer with Apple*.
 
 My offer is to *build and digitally sign* your coin's Mac Wallet using my *Apple-issued digital certificate and Developer ID*.
 
