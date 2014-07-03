@@ -15,6 +15,7 @@ h3. Exchanges
   <li><a href="http://agx.io/refer?a=MjIxMTEwNzQ-&c=earn-btc">Austin Global Exchange:</a> This exchange initially came on the radar as they were the first ones to list Nautiluscoin. FinCEN registered and based in Texas.</li>
   <li><a href="https://www.atomic-trade.com?refid=R11NVAK3">Atomic Trade:</a> I haven't traded here but they do have some interesting trading pairs. FinCEN registered and based in New Jersey.</li>
   <li><a href="https://www.bitfinex.com/?refcode=N9u4dafizU">Bitfinex:</a> Trade Bitcoin, Litecoin and Darkcoin at the biggest Bitcoin exchange by volume.</li>
+  <li><a href="https://www.coinmkt.com/?affiliateId=F6F4075C61454A94841EA4B7BAE9CB15">CoinMkt:</a> Buy and trade Bitcoins and other cryptocurrencies with fiat. FinCEN registered exchange and based in California.</li>
   <li><a href="https://www.coins-e.com/?ref=5019991480991744">Coins-E:</a> Coins-E was the first exchange to list Maxcoin and Razorcoin.</li>
   <li><a href="https://www.cryptsy.com/users/register?refid=85406">Cryptsy:</a> Cryptsy is one of the oldest exchanges and has a ton of trading pairs. FinCEN registered and based in Florida.</li>
 </ul>
@@ -25,13 +26,14 @@ h3. Mining rental
   <li><a href="http://www.miningrigrentals.com/register?ref=3146">Mining Rig Rentals:</a> I've only used BetaRigs but I've heard good things about Mining Rig Rentals.</li>
 </ul>
 
-h3. Services
+h3. Other coin related
 
 <ul class="posts">
   <li><a href="https://localbitcoins.com/?ch=2805">Local Bitcoins:</a> Buy Bitcoins with fiat currency from a person near your physical location.</li>
+  <li><a href="https://qoinpro.com/4beb49da61d815a60f34a684bb5bb692">Quinpro:</a> Earn free Bitcoins and other coins every 24 hours.</a>
 </ul>
 
-h3. Other
+h3. Other services
 
 <ul class="posts">
   <li><a href="https://www.digitalocean.com/?refcode=571ac31ec1b5">DigitalOcean:</a> DigitalOcean's virtual machines run on SSD's and are fast. I wrote a <a href="http://julianyap.com/2013/10/08/digital-ocean-first-impressions.html">review</a> about them.</li>
