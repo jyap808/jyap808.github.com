@@ -15,7 +15,7 @@ My offer is to *build and digitally sign* your coin's Mac Wallet using my *Apple
 
 The coin development team can then make available an installer file for the signed Mac Wallet.  Your end users can download and use your Mac Wallet with confidence that it comes from a trusted member of the community and is *malware free*.
 
-My aim as with all my cryptocurrency endeavors is to raise the level of *professionalism* and security in *cryptocurrency*.
+My aim as with all my cryptocurrency endeavors is to raise the level of *professionalism* and *security* in cryptocurrency.
 
 If you are an end user you should *request your coin development team* provide you with signed Mac Wallet builds so you can buy/sell/trade your favorite coins with confidence.
 
