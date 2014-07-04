@@ -20,7 +20,7 @@ I encourage all coins which believe in the longevity and public trust of their c
 
 I encourage all cryptocurrency users to demand signed Mac Wallet builds from their coin developers.  In order for alt coins to compete on the same level as Bitcoin, they must offer the same if not better level of trustworthiness. 
 
-I have discussed this program with Pinkcoin and Razorcoin who have agreed to be apart of the launch of this program.  The "signed Pinkcoin wallet":http://crypto.pink/wallet/ is now available as of writing and the signed Razorcoin wallet will be available shortly.
+I have discussed this program with Pinkcoin and Razorcoin who have agreed to be apart of the launch of this program.  The "signed Pinkcoin wallet":http://crypto.pink/wallet/ and the "signed Razorcoin wallets":http://razorco.in are both available for immediate download.
 
 Here is a screen shot of the signed Pinkcoin Mac Wallet along with my developer ID verified by Apple:
 
