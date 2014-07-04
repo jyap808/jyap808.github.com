@@ -71,7 +71,7 @@ I offer builds for up to 2 years or up to 5 releases (whichever comes first).
 
 You agree to host the downloadable installer file.  It is preferable that you host this on your own domain and not a 3rd party download service such as Dropbox, Google Drive or MEGA.
 
-Builds will be signed my Apple Mac developer account.  You agree to give me permission to do this on behalf of your coin and your coin's community.
+Builds will be signed by my Apple Mac developer account.  You agree to give me permission to do this on behalf of your coin and your coin's community.
 
 Only coins which are distributed using a FOSS (Free and Open Source Software) license will be accepted.  You agree to host the source code for your wallet in a publically accessible repository.
 
