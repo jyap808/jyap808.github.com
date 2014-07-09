@@ -28,3 +28,5 @@ Here is a screen shot of the signed Pinkcoin Mac Wallet along with my developer 
 
 Please read my "Signed Mac Wallet Builds Program":http://julianyap.com/pages/macwalletbuilds.html page which goes into more detail.
 
+*UPDATE, July 9 2014:* The "Nautiluscoin":http://www.nautiluscoin.com Mac Wallet is now signed.
+
