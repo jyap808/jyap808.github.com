@@ -30,3 +30,5 @@ Please read my "Signed Mac Wallet Builds Program":http://julianyap.com/pages/mac
 
 *UPDATE, July 9 2014:* The "Nautiluscoin":http://www.nautiluscoin.com Mac Wallet is now signed.
 
+*UPDATE, July 29 2014:* The "Sync":http://www.synclub.net Mac Wallet is now signed.
+
