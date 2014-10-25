@@ -12,7 +12,6 @@ Here are some cryptocurrency affiliate links.
 h3. Exchanges
 
 <ul class="posts">
-  <li><a href="http://agx.io/refer?a=MjIxMTEwNzQ-&c=earn-btc">Austin Global Exchange:</a> This exchange initially came on the radar as they were the first ones to list Nautiluscoin. FinCEN registered and based in Texas.</li>
   <li><a href="https://www.atomic-trade.com?refid=R11NVAK3">Atomic Trade:</a> I haven't traded here but they do have some interesting trading pairs. FinCEN registered and based in New Jersey.</li>
   <li><a href="https://www.bitfinex.com/?refcode=N9u4dafizU">Bitfinex:</a> Trade Bitcoin, Litecoin and Darkcoin at the biggest Bitcoin exchange by volume.</li>
   <li><a href="https://www.coinmkt.com/?affiliateId=F6F4075C61454A94841EA4B7BAE9CB15">CoinMkt:</a> Buy and trade Bitcoins and other cryptocurrencies with fiat. FinCEN registered exchange and based in California.</li>
