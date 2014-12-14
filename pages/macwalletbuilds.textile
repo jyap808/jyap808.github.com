@@ -21,7 +21,7 @@ If you are an end user you should *request your coin development team* provide y
 
 This program is priced at 0.38 Bitcoins, payable via my <a href="https://coinbase.com/jyap">Coinbase account</a>.
 
-Alternatively this program is priced at 10000 "CoinmarketsCoins":http://coinmarketscoin.com, payable via my JBS Stealth Address: smYpAnnye4tgrm33qj21EEZHmveCUJ132edhuSNaq8jxh5maXd3GbfiyjgbGZqWUZfagcSRPcNtjYkYo542sWjtdHEoxfbuRo6w7c9
+Alternatively this program is priced at a 10% discount if paid with "Jumbucks":http://getjumbucks.com, payable via my JBS Stealth Address: smYpAnnye4tgrm33qj21EEZHmveCUJ132edhuSNaq8jxh5maXd3GbfiyjgbGZqWUZfagcSRPcNtjYkYo542sWjtdHEoxfbuRo6w7c9
 
 h3. Further details
 
