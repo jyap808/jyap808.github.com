@@ -29,7 +29,7 @@ h3. Mining rental
 h3. Other coin related
 
 <ul class="posts">
-  <li><a href="https://localbitcoins.com/?ch=2805">Local Bitcoins:</a> Buy Bitcoins with fiat currency from a person near your physical location.</li>
+  <li><a href="https://localbitcoins.com/?ch=33z7">Local Bitcoins:</a> Buy Bitcoins with fiat currency from a person near your physical location.</li>
   <li><a href="https://qoinpro.com/4beb49da61d815a60f34a684bb5bb692">Quinpro:</a> Earn free Bitcoins and other coins every 24 hours.</a>
 </ul>
 
