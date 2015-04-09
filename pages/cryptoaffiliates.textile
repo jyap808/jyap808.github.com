@@ -26,7 +26,7 @@ h3. Exchanges
 h3. Mining rental
 
 <ul class="posts">
-  <li><a href="http://www.miningrigrentals.com/register?ref=3146">Mining Rig Rentals:</a> I've only used BetaRigs but I've heard good things about Mining Rig Rentals.</li>
+  <li><a href="http://www.miningrigrentals.com/register?ref=3146">Mining Rig Rentals:</a> Mining Rig Rentals is where I usually rent these days. I have also used BetaRigs in the past.</li>
 </ul>
 
 h3. Other coin related
