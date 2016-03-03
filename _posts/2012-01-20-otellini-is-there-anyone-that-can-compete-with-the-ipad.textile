@@ -7,5 +7,5 @@ post-link: http://seekingalpha.com/article/320787-intel-s-ceo-discusses-q4-2011-
 
 Intel's CEO Paul S. Otellini during yesterday's earnings call on the disappointment of Android tablet sales in 2011:
 
-bq. I think the thing is, tablets are a little bit about hardware and an awful lot about software. And I think that until you get to Ice Cream Sandwich, the offering isn't as powerful as what's out there with Apple. And as the Ice Cream Sandwich tablets start shipping, I think you'll start seeing a little bit better receptivity, Google just added the music store, the videos are better, everything got a little bit better bit ICS. And so I think the better test is year 2 here, in terms of is there anyone that can compete with the iPad?
+> I think the thing is, tablets are a little bit about hardware and an awful lot about software. And I think that until you get to Ice Cream Sandwich, the offering isn't as powerful as what's out there with Apple. And as the Ice Cream Sandwich tablets start shipping, I think you'll start seeing a little bit better receptivity, Google just added the music store, the videos are better, everything got a little bit better bit ICS. And so I think the better test is year 2 here, in terms of is there anyone that can compete with the iPad?
 

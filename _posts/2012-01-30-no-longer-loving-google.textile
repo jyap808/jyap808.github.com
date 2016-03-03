@@ -7,7 +7,7 @@ post-link: http://www.somebits.com/weblog/tech/no-longer-loving-google.html
 
 Nelson Minar laments his love for his former employer Google: 
 
-bq. I imagine half of my readers are smugly thinking "See, I told you Google was evil all along". I don't think that's right. In particular I refuse to give in to a cynical view of Google's "Don't be evil" motto; that ethos was very real, a sincere and important guiding principle. And if a big company like Google can't avoid being evil, then what world-changing enterprise can? But I think Google as an organization has moved on; they're focussed now on market position, not making the world better. Which makes me sad.
+> I imagine half of my readers are smugly thinking "See, I told you Google was evil all along". I don't think that's right. In particular I refuse to give in to a cynical view of Google's "Don't be evil" motto; that ethos was very real, a sincere and important guiding principle. And if a big company like Google can't avoid being evil, then what world-changing enterprise can? But I think Google as an organization has moved on; they're focussed now on market position, not making the world better. Which makes me sad.
 
 I would say that from a business perspective, Google is merely solidifying and focussing its market position as an advertising company.  It makes a lot of the Public Relations fluff about 'making the world better' a lot more transparent.
 

@@ -5,7 +5,7 @@ date: 2012-01-12 12:12
 post-link: http://developer.android.com/design/patterns/pure-android.html
 ---
 
-bq.. *Don't use right-pointing carets on line items*
+>. *Don't use right-pointing carets on line items*
 
 A common pattern on other platforms is the display of right-pointing carets on line items that allow the user to drill deeper into additional content.
 

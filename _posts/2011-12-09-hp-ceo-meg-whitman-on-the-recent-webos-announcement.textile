@@ -7,11 +7,11 @@ post-link: http://www.theverge.com/2011/12/9/2624209/meg-whitman-marc-andreessen
 
 On HP creating new webOS hardware:
 
-bq. In the near term what I would imagine — and this could change, in full disclosure — is I would think tablets, I do not believe we will be in the smart phone business again.
+> In the near term what I would imagine — and this could change, in full disclosure — is I would think tablets, I do not believe we will be in the smart phone business again.
 
 So the webOS powered TouchPad failed so they're going to try again?  Maybe the argument here is 'Yeah, but I'm not "Léo.":http://en.wikipedia.org/wiki/L%C3%A9o_Apotheker  I'm going to pick up where "Mark":http://en.wikipedia.org/wiki/Mark_Hurd left off'.
 
-bq. The measures of success are going to be: how many developers are writing for this platform? Have there been other hardware manufacturers who have signed on and built devices, whether they be tablets or devices of the future or smart phones? And ultimately, the ability of developers to make money.
+> The measures of success are going to be: how many developers are writing for this platform? Have there been other hardware manufacturers who have signed on and built devices, whether they be tablets or devices of the future or smart phones? And ultimately, the ability of developers to make money.
 
 At least Meg sounds like she understands the game.
 

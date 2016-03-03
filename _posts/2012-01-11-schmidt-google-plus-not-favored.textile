@@ -5,7 +5,7 @@ date: 2012-01-11 00:21
 post-link: http://marketingland.com/schmidt-google-not-favored-happy-to-talk-twitter-facebook-integration-3151
 ---
 
-bq.. I stressed the concern of Google not pointing to anything other than Google+ for these new social suggestions, not what I had expected from the same search engine that points at content even from rivals through things like Google Finance.
+>. I stressed the concern of Google not pointing to anything other than Google+ for these new social suggestions, not what I had expected from the same search engine that points at content even from rivals through things like Google Finance.
 
 “We had permission,” in that case, Schmidt said, suggesting that Google seemed to lack the permission needed to equally display social suggestions from Facebook and Twitter. 
 

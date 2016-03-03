@@ -5,7 +5,7 @@ date: 2012-02-16 23:34
 post-link: http://online.wsj.com/article_email/SB10001424052970204880404577225380456599176-lMyQjAxMTAyMDEwNjExNDYyWj.html
 ---
 
-bq. To get around Safari's default blocking, Google exploited a loophole in the browser's privacy settings. While Safari does block most tracking, it makes an exception for websites with which a person interacts in some way—for instance, by filling out a form. So Google added coding to some of its ads that made Safari think that a person was submitting an invisible form to Google. Safari would then let Google install a cookie on the phone or computer.
+> To get around Safari's default blocking, Google exploited a loophole in the browser's privacy settings. While Safari does block most tracking, it makes an exception for websites with which a person interacts in some way—for instance, by filling out a form. So Google added coding to some of its ads that made Safari think that a person was submitting an invisible form to Google. Safari would then let Google install a cookie on the phone or computer.
 
 It should be noted that the default setting on Safari is to block cookies "from third parties and advertisers" unless a user interacts with the third party in some way. This is a perfectly fair default which increases the privacy for users and does not break any obvious web browsing functionality.
 

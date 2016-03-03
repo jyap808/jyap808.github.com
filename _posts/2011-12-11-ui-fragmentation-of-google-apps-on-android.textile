@@ -7,7 +7,7 @@ post-link: http://minming.posterous.com/google-currents-yet-another-contribution
 
 Former Google UX designer intern Lo Min Ming on Google apps on Android:
 
-bq. Google, here is the problem: If you cannot make the UI of your apps consistent, how do you expect developers to follow your design language?
+> Google, here is the problem: If you cannot make the UI of your apps consistent, how do you expect developers to follow your design language?
 
 I have had my work Android phone for a little over a year now and the first thing which struck me was the poor looking widgets.  It makes simple applications which do not spend a lot of time creating a customized design look poor.
 

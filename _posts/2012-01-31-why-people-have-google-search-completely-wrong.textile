@@ -18,7 +18,7 @@ According to recent "comScore numbers":http://online.wsj.com/article/SB100014240
 
 Julia Boorstin for CNBC on "why Facebook is winning":http://www.cnbc.com/id/46192691:
 
-bq. First, there’s the ability to target ads very narrowly using personal information from user profiles and information about how people spend their time on the service. There’s also the fact that Facebook offers a rare opportunity to connect with self-professed fans, who are far more open to marketing messages than a run-of-the mill web-surfers.
+> First, there’s the ability to target ads very narrowly using personal information from user profiles and information about how people spend their time on the service. There’s also the fact that Facebook offers a rare opportunity to connect with self-professed fans, who are far more open to marketing messages than a run-of-the mill web-surfers.
 
 In conclusion, Google+ and "Search, plus Your World" isn't about making the web or search better.  It's making directed advertising better.
 

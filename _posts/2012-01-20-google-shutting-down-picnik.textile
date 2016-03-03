@@ -5,7 +5,7 @@ date: 2012-01-20 15:46
 post-link: http://blog.picnik.com/2012/01/official-announcement-picnik-is-closing/
 ---
 
-bq. Picnik will be closing on April 19, 2012.
+> Picnik will be closing on April 19, 2012.
 
 Already a ton of comments from unhappy users.
 

@@ -10,7 +10,7 @@ The main issue I see with Google's Android Market is the lack of those 2 element
 
 With the Windows Store announcement, I was interested to see that Windows is coupling their PC store with their tablet store.  I think this differentiation makes sense.  Currently there exists the Windows Phone Marketplace which is only for the phone platform.  With Apple, iOS (iPhone, iPod Touch and iPad's) apps are all on the "App Store" and Mac apps are on the "Mac App Store" which also makes sense.
 
-bq. We have full platform support for free apps, trials (both time-based and feature-based trials) and paid apps, including in-app purchase.
+> We have full platform support for free apps, trials (both time-based and feature-based trials) and paid apps, including in-app purchase.
 
 This is what I feel is the current killer feature for the Windows stores.  The current Windows Phone Marketplace has something similar where users have an option to download a trial or demo for a commercial app (developers can choose what kind of trial period they want to offer).
 

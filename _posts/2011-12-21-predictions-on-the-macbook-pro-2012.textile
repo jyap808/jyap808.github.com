@@ -6,7 +6,7 @@ date: 2011-12-21 16:51
 
 "MacRumors":http://www.macrumors.com/2011/12/21/os-x-10-7-3-beta-reveals-active-work-on-retina-display-support-for-mac/ writes:
 
-bq. With new claims that Apple is set to release a new 15" MacBook Pro offering a resolution of 2880x1800 early next year, Apple's work on its HiDPI software support has also been gaining renewed attention.
+> With new claims that Apple is set to release a new 15" MacBook Pro offering a resolution of 2880x1800 early next year, Apple's work on its HiDPI software support has also been gaining renewed attention.
 
 With the modern iteration of the MacBook Air, there seems to be no compelling reason to have a MacBook Pro.
 

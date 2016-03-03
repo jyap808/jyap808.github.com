@@ -7,7 +7,7 @@ post-link: http://louisck.com
 
 Louis CK on purchasing his performance:
 
-bq. once you download it you can keep it for as long as you want. watch it all you want. burn it on a dvd. anything.
+> once you download it you can keep it for as long as you want. watch it all you want. burn it on a dvd. anything.
 
 That's a Twitter "status post":https://twitter.com/#!/louisck/status/145657595405926400 but it summarizes the full "Terms and Conditions":https://buy.louisck.net/terms-and-conditions.
 

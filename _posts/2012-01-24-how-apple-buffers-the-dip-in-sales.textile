@@ -6,7 +6,7 @@ date: 2012-01-24 23:16
 
 Tim Cook during today's "earnings call":http://www.morningstar.com/earnings/34582720-apple-inc-q1-2012.aspx:
 
-bq. I would also attribute the performance [of iPhone sales] to the delayed purchases from the prior quarter as we've discussed in the October call as people were anticipating a new iPhone being announced. I think we made the correct decision to go with a broad range of iPhone. This turned out to be a benefit as we thought it would.
+> I would also attribute the performance [of iPhone sales] to the delayed purchases from the prior quarter as we've discussed in the October call as people were anticipating a new iPhone being announced. I think we made the correct decision to go with a broad range of iPhone. This turned out to be a benefit as we thought it would.
 
 Prior to the announcement of the iPhone 4S Apple would only have one available model of iPhone out at a time.  The iPhone 4S changed this cycle where they kept the prior iPhone 4 model and the iPhone 3GS (through AT&T).  This led to a dip in sales for Apple in the lead up to the announcement, otherwise referred to as "delayed purchases".  In this case Apple had become a victim of its own success.
 

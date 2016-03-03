@@ -5,7 +5,7 @@ date: 2012-02-15 09:14
 post-link: http://allthingsd.com/20120215/apple-app-access-to-contact-data-will-require-explicit-user-permission/
 ---
 
-bq. “Apps that collect or transmit a user’s contact data without their prior permission are in violation of our guidelines,” Apple spokesman Tom Neumayr told AllThingsD. “We’re working to make this even better for our customers, and as we have done with location services, any app wishing to access contact data will require explicit user approval in a future software release.”
+> “Apps that collect or transmit a user’s contact data without their prior permission are in violation of our guidelines,” Apple spokesman Tom Neumayr told AllThingsD. “We’re working to make this even better for our customers, and as we have done with location services, any app wishing to access contact data will require explicit user approval in a future software release.”
 
 A fair and reasonable response from Apple.
 

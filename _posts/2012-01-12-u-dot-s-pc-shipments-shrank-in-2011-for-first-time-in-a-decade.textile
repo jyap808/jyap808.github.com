@@ -5,7 +5,7 @@ date: 2012-01-12 05:26
 post-link: http://www.businessweek.com/technology/us-pc-shipments-shrank-in-2011-for-first-time-in-a-decade-01122012.html
 ---
 
-bq. The U.S. personal-computer market declined for the first time in a decade last year, hurt by sluggish consumer spending, supply shortages, and the popularity of smartphones and tablets.
+> The U.S. personal-computer market declined for the first time in a decade last year, hurt by sluggish consumer spending, supply shortages, and the popularity of smartphones and tablets.
 
 If you have a small profit margin, you're expecting growth but even then you're having to expend a lot to get that growth and you're extremely open to risk growth slows or declines.  You have no financial buffer and it's a tougher hill to climb back up.
 

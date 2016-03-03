@@ -5,7 +5,7 @@ date: 2012-02-01 21:02
 post-link: http://david-smith.org/blog/2012/02/01/understanding-japanese-app-store-withholding/
 ---
 
-bq. The Japanese government requires that Apple withhold 20% of your profits from App Store sales unless you have filed forms demonstrating that you are a foreign company and taxable there instead. The forms are a bit complex and the process a bit cumbersome, but unless you complete it 20% of whatever you make in Japan is taken and not returned.
+> The Japanese government requires that Apple withhold 20% of your profits from App Store sales unless you have filed forms demonstrating that you are a foreign company and taxable there instead. The forms are a bit complex and the process a bit cumbersome, but unless you complete it 20% of whatever you make in Japan is taken and not returned.
 
 Great read for App Store developers.  I don't believe it's exactly correct that you can't receive the 20% back since I've owned international mutual funds (from a broker that provides a Form 1099 that Apple does not provide) where overseas withheld returns are returned when filing my tax return.  Nevertheless I am not an accountant and this process makes it a lot easier.
 

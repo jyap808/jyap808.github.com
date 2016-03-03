@@ -15,7 +15,7 @@ The support ticket then concludes with Linode admitting that yes, the Linode Man
 
 Through further research, the Linode wiki "mentions":http://www.linode.com/wiki/index.php/FAQ#How_do_I_recover_or_reset_the_root_password.3F the functionality of the root password reset:
 
-bq. Log into the Linode Manager and select the Linode that you wish to reset the password on. Shut down the Linode and navigate to the "Rescue" tab. From this tab, you can use the "Reset Root Password" utility to enter your desired password and apply the change. After the task has completed, you may boot your Linode and log in. 
+> Log into the Linode Manager and select the Linode that you wish to reset the password on. Shut down the Linode and navigate to the "Rescue" tab. From this tab, you can use the "Reset Root Password" utility to enter your desired password and apply the change. After the task has completed, you may boot your Linode and log in. 
 
 This sounds like the Linode VPS root password is reset through single user mode.
 

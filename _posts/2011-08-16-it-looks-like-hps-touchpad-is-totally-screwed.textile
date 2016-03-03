@@ -5,7 +5,7 @@ date: 2011-08-16 22:56
 post-link: http://allthingsd.com/20110816/ouchpad-best-buy-sitting-on-a-pile-of-unsold-hp-tablets/
 ---
 
-bq. Best Buy has taken delivery of 270,000 TouchPads and has so far managed to sell only 25,000, or less than 10 percent of the units in its inventory.
+> Best Buy has taken delivery of 270,000 TouchPads and has so far managed to sell only 25,000, or less than 10 percent of the units in its inventory.
 
 Oh shit. Steve Jobs was right when he said that 2011 was going to be the year of the iPad 2.  It was a bold statement and one which would have surely motivated competitors.
 

@@ -5,7 +5,7 @@ date: 2011-12-16 16:54
 post-link: http://www.pcmag.com/article2/0,2817,2397729,00.asp
 ---
 
-bq. As we close 2011 and head into 2012, we're still running into the same confused messaging, empty promises, and delayed announcements that have plagued Android OS updates from the beginning. This means that for all intents and purposes, the Google Android Update Alliance is already dead.
+> As we close 2011 and head into 2012, we're still running into the same confused messaging, empty promises, and delayed announcements that have plagued Android OS updates from the beginning. This means that for all intents and purposes, the Google Android Update Alliance is already dead.
 
 The whole OS update process is what concerns me most about Android and what I feel leaves a big opening for iOS and Windows Phone to innovate and push out new features to users.  Unfortunately, it does not look like Google has adequately addressed this issue or sees it as a concern.
 

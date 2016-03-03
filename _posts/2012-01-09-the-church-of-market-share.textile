@@ -5,7 +5,7 @@ date: 2012-01-09 15:20
 post-link: http://daringfireball.net/2012/01/the_church_of_market_share
 ---
 
-bq. Android’s market share lead over iOS, at least with regard to phones, has grown. But almost nothing has changed with regard to iOS’s wider and deeper support from developers. Market share is definitely something, but it’s not everything.
+> Android’s market share lead over iOS, at least with regard to phones, has grown. But almost nothing has changed with regard to iOS’s wider and deeper support from developers. Market share is definitely something, but it’s not everything.
 
 The problem with Android is that if you focus purely on metrics such as "activations" is that you lose sight over other long term metrics such as customer loyalty.  Sometimes these other metrics are fuzzier and harder to measure.
 

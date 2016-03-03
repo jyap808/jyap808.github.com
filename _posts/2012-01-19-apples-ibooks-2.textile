@@ -5,7 +5,7 @@ date: 2012-01-19 14:36
 post-link: http://latimesblogs.latimes.com/technology/2012/01/apple-ibooks-author-free-mac-app.html
 ---
 
-bq. Apple wants us to ditch the paperback and hardcover textbooks in favor of an iPad and digital downloads, that much is obvious. But the company also wants the iPad and Macs to become to go-to devices for educational institutions and publishing houses.
+> Apple wants us to ditch the paperback and hardcover textbooks in favor of an iPad and digital downloads, that much is obvious. But the company also wants the iPad and Macs to become to go-to devices for educational institutions and publishing houses.
 
 It helps to deliver rich multimedia experiences when you have a standardized form factor like you have with the iPad.  iOS developers have experienced this since the App Store opened which is why iOS apps are known for their pixel perfect designs.  "Interactive 3-D models, photos, videos and diagrams" all play to the iPad's strengths compared to dedicated book readers which rely on E Ink technology.  For these reasons (standardization and multimedia), Apple won't be releasing a 7" iPad nor will they release an E Ink eBook reader any time soon.
 

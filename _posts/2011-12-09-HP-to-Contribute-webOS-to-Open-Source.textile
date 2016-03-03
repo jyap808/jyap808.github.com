@@ -4,7 +4,7 @@ title: HP to Contribute webOS to Open Source
 post-link: http://www.hp.com/hpinfo/newsroom/press/2011/111209xa.html
 ---
 
-bq. HP will make the underlying code of webOS available under an open source license. Developers, partners, HP engineers and other hardware manufacturers can deliver ongoing enhancements and new versions into the marketplace.
+> HP will make the underlying code of webOS available under an open source license. Developers, partners, HP engineers and other hardware manufacturers can deliver ongoing enhancements and new versions into the marketplace.
 
 I guess this is a desperate move when you can't find a buyer and you're looking to gain traction through enticing manufacturers?
 

@@ -4,7 +4,7 @@ title: Apple is going to be huge
 post-link: http://www.asymco.com/2011/11/28/how-many-ios-devices-will-be-sold-in-2012/
 ---
 
-bq. If 90% of iOS users upgrade two years after their device purchase then next year will result in 90 million iOS devices sold to existing users.
+> If 90% of iOS users upgrade two years after their device purchase then next year will result in 90 million iOS devices sold to existing users.
 
 No other phone manufacturer has such high customer loyalty and satisfaction.
 

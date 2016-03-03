@@ -7,7 +7,7 @@ post-link: http://joshsmithonwpf.wordpress.com/2012/02/19/becoming-an-ios-develo
 
 Josh Smith relays his experience moving from programming in Microsoft's Windows Presentation Foundation to Apple's iOS:
 
-bq.. When you move to iOS, you will need to leave behind most of what you know about UI programming from the .NET world. Fundamental things like object-oriented programming, virtual methods, properties, and loops are still relevant, and having knowledge of those things is essential. But knowledge alone won’t be enough to get you up and writing an iOS app.
+>. When you move to iOS, you will need to leave behind most of what you know about UI programming from the .NET world. Fundamental things like object-oriented programming, virtual methods, properties, and loops are still relevant, and having knowledge of those things is essential. But knowledge alone won’t be enough to get you up and writing an iOS app.
 
 You will need to re-map your existing concepts and knowledge onto a new programming language, UI platform, APIs, operating system, IDE, keyboard shortcuts, debugger, error messages, etc. This takes time, and can be frustrating for people who are accustomed to being competent and productive in another environment.
 

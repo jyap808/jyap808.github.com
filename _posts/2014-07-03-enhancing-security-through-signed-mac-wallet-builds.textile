@@ -12,7 +12,7 @@ One way to combat this in the Mac OS X system is to use "code signing":https://d
 
 From the "Wikipedia":http://en.wikipedia.org/wiki/Code_signing entry:
 
-bq. *Code signing* is the process of digitally signing executables and scripts to confirm the software author and guarantee that the code has not been altered or corrupted since it was signed by use of a cryptographic hash.
+> *Code signing* is the process of digitally signing executables and scripts to confirm the software author and guarantee that the code has not been altered or corrupted since it was signed by use of a cryptographic hash.
 
 I have started a "Signed Mac Wallet Builds Program":http://julianyap.com/pages/macwalletbuilds.html which provides coins the service of having their Mac Wallets built and signed by me.  Please note that there is nothing preventing coin developers from directly signing up for an Apple Mac developer account, going through the verification process and providing this service themselves.
 

@@ -14,41 +14,41 @@ Here are some comments.
 
 From Bilal Akhtar:
 
-bq. MG missed a point here. Most users don't care about updates. The ones who do, either get Nexus phones, or flash custom ROMs.
+> MG missed a point here. Most users don't care about updates. The ones who do, either get Nexus phones, or flash custom ROMs.
 
 From Ben Floro:
 
-bq. Plus ICS is a massive update. iOS has never really had a massive update and it's still basically a single process OS.
+> Plus ICS is a massive update. iOS has never really had a massive update and it's still basically a single process OS.
 
 From Eric Souza:
 
-bq. Speaking of "in the weeds"...continuing to act like the audience at large for Android or iOS devices cares much at all for the latest OS updates is definitely in the thick of 'em.
+> Speaking of "in the weeds"...continuing to act like the audience at large for Android or iOS devices cares much at all for the latest OS updates is definitely in the thick of 'em.
 
 From Darryl Adams:
 
-bq. Keeping the phone up to date is not that critical, as developers can use the API to port a lot of ICS ui to older versions of Android. If anything, the only people who would demand an Android update on their phone are people who would know how to manually update the phone. Unlike iOS update, not much new wizz bang features are added in an Android update, mostly ui changes.
+> Keeping the phone up to date is not that critical, as developers can use the API to port a lot of ICS ui to older versions of Android. If anything, the only people who would demand an Android update on their phone are people who would know how to manually update the phone. Unlike iOS update, not much new wizz bang features are added in an Android update, mostly ui changes.
 
 From Dave Beeston:
 
-bq. I wonder how many Android users know much about the updates and how many of them actually care?
+> I wonder how many Android users know much about the updates and how many of them actually care?
 
 From Jacob Falzone:
 
-bq. I personally dont care about the updates. I mean seriously.
+> I personally dont care about the updates. I mean seriously.
 
 From Shane Girodat:
 
-bq. Heck most people don't update Windows, their browsers, or even their antivirus programs for crying out loud. Why? Because they just don't care about all the technical BS involved with computing devices.
+> Heck most people don't update Windows, their browsers, or even their antivirus programs for crying out loud. Why? Because they just don't care about all the technical BS involved with computing devices.
 
 From Naval Gilles:
 
-bq. Open puts the pressure on the consumer to improve their phone.
+> Open puts the pressure on the consumer to improve their phone.
 
 Finally Jason Diaz with a shred of reasoning:
 
-bq. C'mon people it's pretty obvious that Android first caters to the needs of OEMs and worse the carriers. Users are an after thought. People do care about updates as much as they care about their apps getting updates. If users have to jump hurdles to get timely updates that is not the definition of Open.
+> C'mon people it's pretty obvious that Android first caters to the needs of OEMs and worse the carriers. Users are an after thought. People do care about updates as much as they care about their apps getting updates. If users have to jump hurdles to get timely updates that is not the definition of Open.
 
 Jason Diaz continues in another comment:
 
-bq. Android has hijacked Open and Free and raged war on the weak of mind for what, more Ad dollars? Android is the most closed OS within Open and made it Free chiefly because it's legally mandated to (Linux sans GNU) and in part to satisfy an unintended minuscule amount of hubris hobbyists.
+> Android has hijacked Open and Free and raged war on the weak of mind for what, more Ad dollars? Android is the most closed OS within Open and made it Free chiefly because it's legally mandated to (Linux sans GNU) and in part to satisfy an unintended minuscule amount of hubris hobbyists.
 

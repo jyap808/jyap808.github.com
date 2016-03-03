@@ -5,7 +5,7 @@ date: 2012-01-27 10:54
 post-link: http://online.wsj.com/article/SB10001424052970204573704577187062821038498.html
 ---
 
-bq. A $10 billion Facebook offering would rank fourth among U.S. companies, behind Visa Inc., General Motors Co. and AT&T Wireless. At a $100 billion valuation, Facebook would be worth about the same as McDonald's Corp. and nearly half of Google Inc.
+> A $10 billion Facebook offering would rank fourth among U.S. companies, behind Visa Inc., General Motors Co. and AT&T Wireless. At a $100 billion valuation, Facebook would be worth about the same as McDonald's Corp. and nearly half of Google Inc.
 
 The hotly anticipated and most likely biggest IPO for a long time moves one step closer.  The IPO filing should make for an interesting read.
 

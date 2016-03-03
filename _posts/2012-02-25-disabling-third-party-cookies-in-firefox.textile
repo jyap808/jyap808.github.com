@@ -12,7 +12,7 @@ In further research I was interested to learn that in the first formal specifica
 
 In section: 8.3  Unexpected Cookie Sharing:
 
-bq. A user agent should make every attempt to prevent the sharing of session information between hosts that are in different domains. Embedded or inlined objects may cause particularly severe privacy problems if they can be used to share cookies between disparate hosts.  For example, a malicious server could embed cookie information for host a.com in a URI for a CGI on host b.com.  User agent implementors are strongly encouraged to prevent this sort of exchange whenever possible. 
+> A user agent should make every attempt to prevent the sharing of session information between hosts that are in different domains. Embedded or inlined objects may cause particularly severe privacy problems if they can be used to share cookies between disparate hosts.  For example, a malicious server could embed cookie information for host a.com in a URI for a CGI on host b.com.  User agent implementors are strongly encouraged to prevent this sort of exchange whenever possible. 
 
 RFC 2109 was superseded by "RFC 2965":http://tools.ietf.org/html/rfc2965 in October 2000 but contains the exact same section and wording.
 

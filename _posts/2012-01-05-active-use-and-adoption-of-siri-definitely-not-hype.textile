@@ -5,7 +5,7 @@ date: 2012-01-05 23:22
 post-link: http://www.bloomberg.com/news/2012-01-06/apple-s-voice-recognition-siri-doubles-iphone-data-volumes.html
 ---
 
-bq. Apple Inc. (AAPL)’s voice recognition software Siri has prompted users of the iPhone 4S to use almost twice as much data compared with the handset’s predecessor, placing greater pressure on operators, network firm Arieso said. 
+> Apple Inc. (AAPL)’s voice recognition software Siri has prompted users of the iPhone 4S to use almost twice as much data compared with the handset’s predecessor, placing greater pressure on operators, network firm Arieso said. 
 
 Early tests from Ars Technica found Siri on average used "around 63KB per query":http://arstechnica.com/apple/news/2011/11/how-data-heavy-is-siri-on-an-iphone-4s-ars-investigates.ars which is the equivalent usage to browsing some web sites.  That's not a lot of data in the scheme of things.
 

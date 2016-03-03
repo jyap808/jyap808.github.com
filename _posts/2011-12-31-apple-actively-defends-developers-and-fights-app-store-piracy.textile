@@ -5,7 +5,7 @@ date: 2011-12-31 17:56
 post-link: http://appadvice.com/appnn/2011/12/apples-making-it-more-difficult-to-download-popular-cracked-apps
 ---
 
-bq. The crooks published news of Apple’s efforts to eradicate many of their website’s cracked apps, claiming the Cupertino company has been "scraping apptrackr for links and sending huge takedown notices for a ton of content."
+> The crooks published news of Apple’s efforts to eradicate many of their website’s cracked apps, claiming the Cupertino company has been "scraping apptrackr for links and sending huge takedown notices for a ton of content."
 
 Apple understands that by actively fighting piracy it ensures they maintain developer confidence in developing for their platform.  It ensures the best developers and apps stay committed to developing quality applications for iOS.
 
