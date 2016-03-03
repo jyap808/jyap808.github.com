@@ -39,7 +39,8 @@ h3. Other services
   <li><a href="https://www.digitalocean.com/?refcode=571ac31ec1b5">DigitalOcean:</a> DigitalOcean's virtual machines run on SSD's and are fast. I wrote a <a href="http://julianyap.com/2013/10/08/digital-ocean-first-impressions.html">review</a> about them.</li>
   <li><a href="http://www.namecheap.com/?aff=25649">Namecheap:</a> I switched over all my domains from GoDaddy to Namecheap when GoDaddy supported SOPA. Namecheap accepts Bitcoin as a payment method.</li>
   <li><a href="https://nitrogensports.eu/r/492508">Nitrogen Sports:</a> Sports betting.</li>
-  <li><a href="https://1broker.com/m/r.php?i=3421">1Broker</a> Participate in real-world markets directly with their Bitcoins.</li>
-  <li><a href="https://purse.io/?_r=Tx1b3k">Purse</a> Spend Bitcoins, save money. Receive 0.01 BTC when you spend or earn $50!</li>
+  <li><a href="https://1broker.com/m/r.php?i=3421">1Broker:</a> Participate in real-world markets directly with their Bitcoins.</li>
+  <li><a href="https://purse.io/?_r=Tx1b3k">Purse:</a> Spend Bitcoins, save money. Receive 0.01 BTC when you spend or earn $50!</li>
+  <li><a href="http://www.vultr.com/?ref=6876881">Vultr:</a> Vultr is highly recommended as well and accepts Bitcoin as a payment method</li>
 </ul>
 
