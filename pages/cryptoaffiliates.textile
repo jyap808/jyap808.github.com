@@ -12,11 +12,9 @@ Here are some cryptocurrency affiliate links.
 h3. Exchanges
 
 <ul class="posts">
-  <li><a href="https://www.bitfinex.com/?refcode=N9u4dafizU">Bitfinex:</a> Trade Bitcoin and Litecoin.</li>
   <li><a href="https://www.bitmex.com/register/cOHSck">BitMEX:</a> Cryptocurrency derivatives trading platform with 100x/50x/25x leverage.</li>
   <li><a href="https://www.coinbase.com/join/jyap">Coinbase:</a> Buy $100 of bitcoin or more, and you'll earn $10 of free bitcoin with this link</li>
   <li><a href="https://c-cex.com/?rf=4FECF5061C7C80AD">C-CEX:</a> C-CEX exchange tends to list newer alt-coins.</li>
-  <li><a href="https://www.coins-e.com/?ref=5019991480991744">Coins-E:</a> Coins-E was the first exchange to list Maxcoin and Razorcoin.</li>
   <li><a href="https://www.okcoin.com/?invid=2013968">OKCoin:</a> OKCoin is based out of China and provides futures trading with 10x/20x leverage.</li>
   <li><a href="https://yobit.net/?bonus=vKyaZ">YoBit:</a> YoBit is a newer exchange that lists some new coins.</li>
 </ul>
