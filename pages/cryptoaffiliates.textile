@@ -39,6 +39,6 @@ h3. Other services
   <li><a href="https://nitrogensports.eu/r/492508">Nitrogen Sports:</a> Sports betting.</li>
   <li><a href="https://1broker.com/m/r.php?i=3421">1Broker:</a> Participate in real-world markets directly with their Bitcoins.</li>
   <li><a href="https://purse.io/?_r=Tx1b3k">Purse:</a> Spend Bitcoins, save money. Receive 0.01 BTC when you spend or earn $50!</li>
-  <li><a href="http://www.vultr.com/?ref=6876881">Vultr:</a> Vultr is highly recommended as well and accepts Bitcoin as a payment method</li>
+  <li><a href="http://www.vultr.com/?ref=7125036">Vultr:</a> Vultr is highly recommended as well and accepts Bitcoin as a payment method</li>
 </ul>
 
