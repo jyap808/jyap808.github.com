@@ -14,9 +14,6 @@ h3. Exchanges
 <ul class="posts">
   <li><a href="https://www.bitmex.com/register/cOHSck">BitMEX:</a> Cryptocurrency derivatives trading platform with 100x/50x/25x leverage.</li>
   <li><a href="https://www.coinbase.com/join/jyap">Coinbase:</a> Buy $100 of bitcoin or more, and you'll earn $10 of free bitcoin with this link</li>
-  <li><a href="https://c-cex.com/?rf=4FECF5061C7C80AD">C-CEX:</a> C-CEX exchange tends to list newer alt-coins.</li>
-  <li><a href="https://www.okcoin.com/?invid=2013968">OKCoin:</a> OKCoin is based out of China and provides futures trading with 10x/20x leverage.</li>
-  <li><a href="https://yobit.net/?bonus=vKyaZ">YoBit:</a> YoBit is a newer exchange that lists some new coins.</li>
 </ul>
 
 h3. Mining rental
@@ -25,19 +22,12 @@ h3. Mining rental
   <li><a href="http://www.miningrigrentals.com/register?ref=3146">Mining Rig Rentals:</a> Mining Rig Rentals is where I usually rent these days. I have also used BetaRigs in the past.</li>
 </ul>
 
-h3. Other coin related
-
-<ul class="posts">
-  <li><a href="https://localbitcoins.com/?ch=33z7">Local Bitcoins:</a> Buy Bitcoins with fiat currency from a person near your physical location.</li>
-</ul>
-
 h3. Other services
 
 <ul class="posts">
   <li><a href="https://www.digitalocean.com/?refcode=571ac31ec1b5">DigitalOcean:</a> DigitalOcean's virtual machines run on SSD's and are fast. I wrote a <a href="http://julianyap.com/2013/10/08/digital-ocean-first-impressions.html">review</a> about them.</li>
   <li><a href="http://www.namecheap.com/?aff=25649">Namecheap:</a> I switched over all my domains from GoDaddy to Namecheap when GoDaddy supported SOPA. Namecheap accepts Bitcoin as a payment method.</li>
   <li><a href="https://nitrogensports.eu/r/492508">Nitrogen Sports:</a> Sports betting.</li>
-  <li><a href="https://1broker.com/m/r.php?i=3421">1Broker:</a> Participate in real-world markets directly with their Bitcoins.</li>
   <li><a href="https://purse.io/?_r=Tx1b3k">Purse:</a> Spend Bitcoins, save money. Receive 0.01 BTC when you spend or earn $50!</li>
   <li><a href="http://www.vultr.com/?ref=7125036">Vultr:</a> Vultr is highly recommended as well and accepts Bitcoin as a payment method</li>
 </ul>
