@@ -1,5 +1,5 @@
 pygments: true
 baseurl: /
 permalink: ./:year/:month/:day/:title.html
-markdown: redcarpet
+markdown: GFM
 
