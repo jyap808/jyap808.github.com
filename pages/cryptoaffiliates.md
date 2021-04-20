@@ -3,19 +3,15 @@ layout: page
 title: Affiliate links
 ---
 
-h1. {{ page.title }}
+## {{ page.title }}
 
-h2. My Affiliate Links
-
-Here are some affiliate links.
-
-h3. Mining rental
+### Mining rental
 
 <ul class="posts">
   <li><a href="http://www.miningrigrentals.com/register?ref=3146">Mining Rig Rentals:</a> Mining Rig Rentals is where I usually rent these days. I have also used BetaRigs in the past.</li>
 </ul>
 
-h3. Other services
+### Other services
 
 <ul class="posts">
   <li><a href="https://www.digitalocean.com/?refcode=571ac31ec1b5">DigitalOcean:</a> DigitalOcean's virtual machines run on SSD's and are fast. I wrote a <a href="http://julianyap.com/2013/10/08/digital-ocean-first-impressions.html">review</a> about them.</li>
