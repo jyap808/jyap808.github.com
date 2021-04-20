@@ -1,4 +1,4 @@
-h1. License
+## License
 
 All the original content (posts and pages) is Copyright Julian Yap.
 
@@ -9,23 +9,21 @@ Specifically:
  * Please review the CSS for css/layout.css as this file contains all the base layout overrides that differ from Skeleton.
  * Please do not use the diamond glyph since I want to keep that unique in my design. 
 
-If you happen to find inspiration in my site, a link back to my web site http://julianyap.com and letting me know via Twitter would be appreciated, but is not required.
+## My notes
 
-h1. My notes
-
-h2. Generate and run locally with automatic regeneration
+### Generate and run locally with automatic regeneration
 
 <pre><code>
 jekyll serve --watch
 </code></pre>
 
-h2. Browse
+### Browse
 
 <pre><code>
 http://localhost:4000
 </code></pre>
 
-h2. New post
+### New post
 
 <pre><code>
 rake new_post["Post Title"]
